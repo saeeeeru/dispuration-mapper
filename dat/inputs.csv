@@ -1,0 +1,994 @@
+event_type,period,timestamp,possession_team,player,outcome,start_location_x,start_location_y
+pass,1,00:00:00.340,Brazil,Neymar da Silva Santos Junior,Complete,60.0,40.0
+pass,1,00:00:02.460,Brazil,Fernando Luiz Rosa,Complete,39.0,39.0
+pass,1,00:00:03.620,Brazil,Philippe Coutinho Correia,Complete,48.0,27.0
+pass,1,00:00:05.060,Brazil,Fernando Luiz Rosa,Complete,42.0,33.0
+pass,1,00:00:07.700,Brazil,Marcelo Vieira da Silva Júnior,Complete,40.0,14.0
+pass,1,00:00:09.620,Brazil,João Miranda de Souza Filho,Complete,26.0,22.0
+pass,1,00:00:12.180,Brazil,Thiago Emiliano da Silva,Complete,27.0,44.0
+pass,1,00:00:14.820,Brazil,Fágner Conserva Lemos,Complete,32.0,69.0
+pass,1,00:00:17.260,Brazil,Thiago Emiliano da Silva,Complete,28.0,52.0
+pass,1,00:00:21.940,Brazil,João Miranda de Souza Filho,Complete,36.0,33.0
+pass,1,00:00:26.020,Brazil,Thiago Emiliano da Silva,Complete,41.0,51.0
+pass,1,00:00:28.780,Brazil,Fágner Conserva Lemos,Complete,44.0,77.0
+pass,1,00:00:45.460,Belgium,Jan Vertonghen,Complete,67.0,1.0
+pass,1,00:00:48.820,Belgium,Vincent Kompany,Complete,39.0,22.0
+pass,1,00:00:51.460,Belgium,Toby Alderweireld,Complete,30.0,51.0
+pass,1,00:00:53.700,Belgium,Vincent Kompany,Complete,29.0,33.0
+pass,1,00:01:12.820,Brazil,Alisson Ramsés Becker,Complete,5.0,39.0
+pass,1,00:01:18.500,Brazil,Thiago Emiliano da Silva,Complete,9.0,64.0
+pass,1,00:01:20.420,Brazil,Fágner Conserva Lemos,Complete,29.0,77.0
+pass,1,00:01:22.940,Brazil,José Paulo Bezzera Maciel Júnior,Incomplete,47.0,79.0
+pass,1,00:01:24.460,Brazil,José Paulo Bezzera Maciel Júnior,Incomplete,54.0,79.0
+pass,1,00:01:25.460,Brazil,Jan Vertonghen,Incomplete,65.0,7.0
+pass,1,00:01:27.260,Brazil,Fernando Luiz Rosa,Incomplete,42.0,62.0
+pass,1,00:01:28.260,Brazil,Jan Vertonghen,Incomplete,71.0,23.0
+pass,1,00:01:54.740,Brazil,Thiago Emiliano da Silva,Complete,15.0,57.0
+pass,1,00:01:58.700,Brazil,Fágner Conserva Lemos,Complete,45.0,78.0
+pass,1,00:02:08.380,Belgium,Jan Vertonghen,Complete,67.0,2.0
+pass,1,00:02:12.740,Belgium,Vincent Kompany,Complete,22.0,20.0
+pass,1,00:02:15.900,Belgium,Toby Alderweireld,Complete,24.0,52.0
+pass,1,00:02:19.580,Belgium,Vincent Kompany,Complete,16.0,29.0
+pass,1,00:02:22.100,Belgium,Toby Alderweireld,Complete,15.0,50.0
+pass,1,00:02:24.980,Belgium,Romelu Lukaku Menama,Complete,59.0,53.0
+pass,1,00:02:28.980,Belgium,Thomas Meunier,Complete,68.0,79.0
+pass,1,00:02:29.820,Belgium,Marouane Fellaini-Bakkioui,Complete,60.0,72.0
+pass,1,00:02:31.100,Belgium,Thomas Meunier,Complete,56.0,79.0
+pass,1,00:02:36.420,Belgium,Toby Alderweireld,Complete,15.0,69.0
+pass,1,00:02:42.980,Belgium,Thomas Meunier,Complete,31.0,80.0
+pass,1,00:02:43.980,Belgium,Axel Witsel,Complete,30.0,68.0
+pass,1,00:02:48.700,Brazil,Neymar da Silva Santos Junior,Complete,92.0,6.0
+pass,1,00:02:49.580,Brazil,Gabriel Fernando de Jesus,Complete,101.0,25.0
+pass,1,00:02:51.060,Brazil,Neymar da Silva Santos Junior,Incomplete,107.0,16.0
+pass,1,00:03:02.753,Belgium,Thibaut Courtois,Complete,11.0,35.0
+pass,1,00:03:05.100,Belgium,Jan Vertonghen,Complete,13.0,15.0
+pass,1,00:03:08.500,Belgium,Thibaut Courtois,Complete,6.0,28.0
+pass,1,00:03:10.780,Belgium,Eden Hazard,Incomplete,54.0,23.0
+pass,1,00:03:11.940,Belgium,Fernando Luiz Rosa,Complete,53.0,55.0
+pass,1,00:03:13.593,Belgium,Fágner Conserva Lemos,Incomplete,60.0,66.0
+pass,1,00:03:31.020,Belgium,Jan Vertonghen,Complete,57.0,8.0
+pass,1,00:03:33.100,Belgium,Vincent Kompany,Complete,36.0,16.0
+pass,1,00:03:36.393,Belgium,Toby Alderweireld,Complete,33.0,54.0
+pass,1,00:03:39.780,Belgium,Marouane Fellaini-Bakkioui,Complete,42.0,50.0
+pass,1,00:03:42.340,Belgium,Jan Vertonghen,Complete,32.0,23.0
+pass,1,00:03:58.860,Brazil,Marcelo Vieira da Silva Júnior,Complete,63.0,1.0
+pass,1,00:04:02.180,Brazil,João Miranda de Souza Filho,Complete,45.0,6.0
+pass,1,00:04:05.300,Brazil,Fernando Luiz Rosa,Complete,54.0,29.0
+pass,1,00:04:08.540,Brazil,Thiago Emiliano da Silva,Complete,45.0,48.0
+pass,1,00:04:10.113,Brazil,Fágner Conserva Lemos,Complete,47.0,68.0
+pass,1,00:04:14.980,Brazil,Thiago Emiliano da Silva,Complete,48.0,55.0
+pass,1,00:04:19.513,Brazil,Marcelo Vieira da Silva Júnior,Complete,66.0,4.0
+pass,1,00:04:20.540,Brazil,Neymar da Silva Santos Junior,Complete,68.0,2.0
+pass,1,00:04:36.140,Brazil,José Paulo Bezzera Maciel Júnior,Complete,52.0,49.0
+pass,1,00:04:41.260,Brazil,Thiago Emiliano da Silva,Complete,57.0,52.0
+pass,1,00:04:45.540,Belgium,Jan Vertonghen,Complete,52.0,18.0
+pass,1,00:04:48.980,Belgium,Eden Hazard,Complete,55.0,25.0
+pass,1,00:04:50.980,Belgium,Vincent Kompany,Complete,38.0,25.0
+pass,1,00:04:55.740,Belgium,Toby Alderweireld,Complete,41.0,61.0
+pass,1,00:04:58.940,Belgium,Vincent Kompany,Complete,33.0,41.0
+pass,1,00:04:59.780,Belgium,Axel Witsel,Complete,42.0,34.0
+pass,1,00:05:02.780,Belgium,Vincent Kompany,Complete,29.0,28.0
+pass,1,00:05:05.980,Belgium,Eden Hazard,Complete,44.0,31.0
+pass,1,00:05:08.220,Belgium,Marouane Fellaini-Bakkioui,Complete,64.0,33.0
+pass,1,00:05:13.260,Belgium,Kevin De Bruyne,Complete,89.0,20.0
+pass,1,00:05:15.620,Belgium,Nacer Chadli,Incomplete,105.0,56.0
+pass,1,00:05:23.580,Brazil,Neymar da Silva Santos Junior,Complete,34.0,15.0
+pass,1,00:05:27.060,Brazil,Marcelo Vieira da Silva Júnior,Complete,39.0,5.0
+pass,1,00:06:04.700,Brazil,José Paulo Bezzera Maciel Júnior,Complete,58.0,34.0
+pass,1,00:06:07.820,Brazil,João Miranda de Souza Filho,Complete,58.0,34.0
+pass,1,00:06:10.700,Brazil,José Paulo Bezzera Maciel Júnior,Complete,54.0,42.0
+pass,1,00:06:16.835,Brazil,Thiago Emiliano da Silva,Complete,54.0,50.0
+pass,1,00:06:20.220,Brazil,João Miranda de Souza Filho,Complete,54.0,31.0
+pass,1,00:06:23.180,Brazil,Thiago Emiliano da Silva,Complete,54.0,52.0
+pass,1,00:06:25.740,Brazil,Fernando Luiz Rosa,Complete,67.0,36.0
+pass,1,00:06:32.140,Brazil,Philippe Coutinho Correia,Complete,94.0,17.0
+pass,1,00:06:34.220,Brazil,Neymar da Silva Santos Junior,Complete,92.0,14.0
+pass,1,00:06:38.740,Brazil,Marcelo Vieira da Silva Júnior,Incomplete,113.0,14.0
+pass,1,00:07:10.673,Brazil,Neymar da Silva Santos Junior,Complete,119.0,2.0
+pass,1,00:07:19.220,Belgium,Thibaut Courtois,Complete,18.0,42.0
+pass,1,00:07:29.780,Belgium,Romelu Lukaku Menama,Incomplete,115.0,16.0
+pass,1,00:07:31.660,Belgium,Kevin De Bruyne,Complete,112.0,32.0
+pass,1,00:08:05.300,Brazil,Willian Borges da Silva,Complete,45.0,67.0
+pass,1,00:08:10.580,Brazil,Thiago Emiliano da Silva,Complete,17.0,55.0
+pass,1,00:08:18.820,Brazil,João Miranda de Souza Filho,Complete,42.0,26.0
+pass,1,00:08:27.860,Brazil,Neymar da Silva Santos Junior,Complete,54.0,29.0
+pass,1,00:08:30.420,Brazil,João Miranda de Souza Filho,Complete,39.0,27.0
+pass,1,00:08:32.660,Brazil,Thiago Emiliano da Silva,Complete,39.0,45.0
+pass,1,00:08:35.753,Brazil,Philippe Coutinho Correia,Complete,44.0,35.0
+pass,1,00:08:37.660,Brazil,Thiago Emiliano da Silva,Complete,40.0,49.0
+pass,1,00:08:40.940,Brazil,Fágner Conserva Lemos,Complete,46.0,76.0
+pass,1,00:08:46.620,Brazil,Thiago Emiliano da Silva,Complete,50.0,51.0
+pass,1,00:08:51.140,Brazil,João Miranda de Souza Filho,Complete,54.0,30.0
+pass,1,00:08:56.380,Brazil,Neymar da Silva Santos Junior,Complete,90.0,18.0
+pass,1,00:09:00.260,Brazil,Philippe Coutinho Correia,Complete,96.0,20.0
+pass,1,00:09:03.393,Brazil,Marcelo Vieira da Silva Júnior,Incomplete,116.0,9.0
+pass,1,00:09:11.740,Brazil,Gabriel Fernando de Jesus,Complete,107.0,53.0
+pass,1,00:09:49.300,Brazil,Willian Borges da Silva,Complete,119.0,80.0
+pass,1,00:09:56.780,Brazil,Marcelo Vieira da Silva Júnior,Complete,65.0,29.0
+pass,1,00:10:01.740,Brazil,Neymar da Silva Santos Junior,Incomplete,98.0,17.0
+pass,1,00:10:07.660,Belgium,Eden Hazard,Complete,32.0,74.0
+pass,1,00:10:30.780,Belgium,Vincent Kompany,Complete,26.0,34.0
+pass,1,00:10:32.980,Belgium,Jan Vertonghen,Complete,27.0,23.0
+pass,1,00:10:35.660,Belgium,Vincent Kompany,Complete,25.0,45.0
+pass,1,00:10:40.140,Belgium,Toby Alderweireld,Complete,25.0,61.0
+pass,1,00:10:42.300,Belgium,Vincent Kompany,Complete,20.0,42.0
+pass,1,00:10:45.580,Belgium,Thomas Meunier,Complete,43.0,80.0
+pass,1,00:10:48.300,Belgium,Marouane Fellaini-Bakkioui,Complete,40.0,64.0
+pass,1,00:10:55.940,Belgium,Gabriel Fernando de Jesus,Incomplete,89.0,35.0
+pass,1,00:11:06.700,Belgium,Eden Hazard,Complete,40.0,78.0
+pass,1,00:11:12.220,Belgium,Axel Witsel,Complete,39.0,56.0
+pass,1,00:11:18.020,Belgium,Jan Vertonghen,Complete,46.0,23.0
+pass,1,00:11:20.473,Belgium,Vincent Kompany,Complete,39.0,32.0
+pass,1,00:11:26.540,Belgium,Toby Alderweireld,Complete,44.0,56.0
+pass,1,00:11:29.260,Belgium,Jan Vertonghen,Complete,40.0,14.0
+pass,1,00:11:42.540,Belgium,Nacer Chadli,Complete,88.0,1.0
+pass,1,00:11:43.100,Belgium,Kevin De Bruyne,Complete,85.0,17.0
+pass,1,00:11:44.620,Belgium,Nacer Chadli,Complete,87.0,4.0
+pass,1,00:11:47.673,Belgium,Jan Vertonghen,Complete,66.0,3.0
+pass,1,00:11:52.460,Belgium,Toby Alderweireld,Complete,54.0,46.0
+pass,1,00:11:53.340,Belgium,Marouane Fellaini-Bakkioui,Complete,61.0,46.0
+pass,1,00:11:55.460,Belgium,Vincent Kompany,Complete,47.0,34.0
+pass,1,00:11:57.620,Belgium,Jan Vertonghen,Complete,49.0,16.0
+pass,1,00:11:58.620,Belgium,Nacer Chadli,Complete,70.0,3.0
+pass,1,00:12:01.060,Belgium,Romelu Lukaku Menama,Complete,73.0,20.0
+pass,1,00:12:02.500,Belgium,Kevin De Bruyne,Complete,73.0,31.0
+pass,1,00:12:47.740,Belgium,Nacer Chadli,Incomplete,120.0,2.0
+pass,1,00:13:45.553,Brazil,Fernando Luiz Rosa,Complete,46.0,41.0
+pass,1,00:13:49.060,Brazil,José Paulo Bezzera Maciel Júnior,Complete,55.0,44.0
+pass,1,00:13:55.980,Brazil,Philippe Coutinho Correia,Complete,63.0,37.0
+pass,1,00:13:58.393,Brazil,José Paulo Bezzera Maciel Júnior,Complete,58.0,52.0
+pass,1,00:14:00.660,Brazil,Fágner Conserva Lemos,Complete,54.0,66.0
+pass,1,00:14:04.420,Brazil,Thiago Emiliano da Silva,Complete,57.0,52.0
+pass,1,00:14:13.500,Brazil,Neymar da Silva Santos Junior,Complete,91.0,17.0
+pass,1,00:14:15.820,Brazil,Fernando Luiz Rosa,Complete,83.0,40.0
+pass,1,00:14:20.220,Brazil,Willian Borges da Silva,Incomplete,111.0,66.0
+pass,1,00:14:25.820,Brazil,Marcelo Vieira da Silva Júnior,Complete,100.0,10.0
+pass,1,00:14:31.660,Brazil,Philippe Coutinho Correia,Complete,92.0,18.0
+pass,1,00:14:33.340,Brazil,Marcelo Vieira da Silva Júnior,Complete,102.0,10.0
+pass,1,00:14:37.500,Brazil,Neymar da Silva Santos Junior,Complete,119.0,26.0
+pass,1,00:14:39.980,Brazil,Nacer Chadli,Complete,9.0,44.0
+pass,1,00:14:49.820,Brazil,Marcelo Vieira da Silva Júnior,Complete,81.0,13.0
+pass,1,00:14:56.740,Brazil,Neymar da Silva Santos Junior,Complete,109.0,20.0
+pass,1,00:14:59.220,Brazil,Marcelo Vieira da Silva Júnior,Incomplete,99.0,14.0
+pass,1,00:15:06.620,Brazil,Marcelo Vieira da Silva Júnior,Complete,106.0,1.0
+pass,1,00:15:07.433,Brazil,Neymar da Silva Santos Junior,Complete,99.0,6.0
+pass,1,00:15:10.180,Brazil,Marcelo Vieira da Silva Júnior,Complete,105.0,2.0
+pass,1,00:15:15.340,Brazil,Philippe Coutinho Correia,Complete,89.0,11.0
+pass,1,00:15:19.100,Brazil,Fernando Luiz Rosa,Complete,87.0,36.0
+pass,1,00:15:23.980,Brazil,Willian Borges da Silva,Complete,96.0,48.0
+pass,1,00:15:26.460,Brazil,José Paulo Bezzera Maciel Júnior,Complete,86.0,54.0
+pass,1,00:15:28.220,Brazil,Fernando Luiz Rosa,Complete,72.0,45.0
+pass,1,00:15:29.740,Brazil,Thiago Emiliano da Silva,Complete,66.0,41.0
+pass,1,00:15:33.740,Brazil,Marcelo Vieira da Silva Júnior,Incomplete,89.0,13.0
+pass,1,00:15:41.113,Brazil,João Miranda de Souza Filho,Complete,51.0,11.0
+pass,1,00:15:42.980,Brazil,Thiago Emiliano da Silva,Complete,46.0,26.0
+pass,1,00:15:46.300,Brazil,Marcelo Vieira da Silva Júnior,Complete,63.0,4.0
+pass,1,00:15:52.660,Brazil,Philippe Coutinho Correia,Complete,67.0,34.0
+pass,1,00:15:54.940,Brazil,Fernando Luiz Rosa,Complete,55.0,36.0
+pass,1,00:15:57.260,Brazil,Fágner Conserva Lemos,Complete,47.0,55.0
+pass,1,00:15:59.420,Belgium,Jan Vertonghen,Incomplete,53.0,3.0
+pass,1,00:16:13.340,Belgium,Jan Vertonghen,Complete,54.0,1.0
+pass,1,00:16:15.940,Belgium,Vincent Kompany,Complete,25.0,7.0
+pass,1,00:16:19.940,Belgium,Thibaut Courtois,Complete,13.0,45.0
+pass,1,00:16:22.860,Belgium,Toby Alderweireld,Complete,12.0,51.0
+pass,1,00:16:26.260,Belgium,Thomas Meunier,Complete,48.0,77.0
+pass,1,00:16:29.020,Belgium,Marouane Fellaini-Bakkioui,Complete,42.0,71.0
+pass,1,00:16:31.820,Belgium,Axel Witsel,Complete,41.0,55.0
+pass,1,00:16:32.820,Belgium,Marouane Fellaini-Bakkioui,Complete,37.0,64.0
+pass,1,00:16:45.140,Brazil,Fágner Conserva Lemos,Complete,68.0,80.0
+pass,1,00:16:49.060,Brazil,Thiago Emiliano da Silva,Complete,51.0,68.0
+pass,1,00:16:52.060,Brazil,João Miranda de Souza Filho,Complete,48.0,43.0
+pass,1,00:16:55.340,Brazil,Marcelo Vieira da Silva Júnior,Complete,68.0,4.0
+pass,1,00:17:03.300,Brazil,Neymar da Silva Santos Junior,Incomplete,86.0,24.0
+pass,1,00:17:05.980,Belgium,Kevin De Bruyne,Complete,45.0,60.0
+pass,1,00:17:10.820,Belgium,Romelu Lukaku Menama,Complete,71.0,63.0
+pass,1,00:17:16.740,Belgium,Nacer Chadli,Incomplete,98.0,19.0
+pass,1,00:17:25.460,Brazil,Marcelo Vieira da Silva Júnior,Complete,14.0,3.0
+pass,1,00:17:34.740,Brazil,Philippe Coutinho Correia,Incomplete,54.0,44.0
+pass,1,00:17:38.820,Belgium,Thibaut Courtois,Complete,16.0,30.0
+pass,1,00:17:40.460,Belgium,Vincent Kompany,Complete,24.0,34.0
+pass,1,00:17:44.420,Belgium,Axel Witsel,Complete,45.0,51.0
+pass,1,00:17:45.020,Belgium,Marouane Fellaini-Bakkioui,Complete,54.0,49.0
+pass,1,00:17:46.593,Belgium,Vincent Kompany,Complete,36.0,33.0
+pass,1,00:17:48.780,Belgium,Toby Alderweireld,Complete,33.0,59.0
+pass,1,00:17:52.500,Belgium,Thomas Meunier,Incomplete,54.0,76.0
+pass,1,00:18:07.860,Belgium,Thomas Meunier,Complete,64.0,80.0
+pass,1,00:18:11.460,Belgium,Marouane Fellaini-Bakkioui,Incomplete,85.0,68.0
+pass,1,00:18:18.940,Brazil,Fernando Luiz Rosa,Complete,38.0,24.0
+pass,1,00:18:21.220,Brazil,João Miranda de Souza Filho,Complete,37.0,19.0
+pass,1,00:18:23.060,Brazil,Marcelo Vieira da Silva Júnior,Complete,46.0,4.0
+pass,1,00:18:27.580,Brazil,Philippe Coutinho Correia,Complete,79.0,7.0
+pass,1,00:18:37.060,Brazil,Thomas Meunier,Incomplete,9.0,76.0
+pass,1,00:18:40.380,Brazil,Philippe Coutinho Correia,Complete,95.0,3.0
+pass,1,00:18:41.620,Brazil,Marcelo Vieira da Silva Júnior,Complete,93.0,16.0
+pass,1,00:18:43.540,Brazil,Neymar da Silva Santos Junior,Complete,99.0,12.0
+pass,1,00:18:45.940,Brazil,Philippe Coutinho Correia,Complete,91.0,19.0
+pass,1,00:18:49.580,Brazil,Fernando Luiz Rosa,Complete,86.0,30.0
+pass,1,00:19:07.153,Belgium,Thibaut Courtois,Complete,7.0,34.0
+pass,1,00:19:09.913,Belgium,Jan Vertonghen,Complete,8.0,16.0
+pass,1,00:19:11.700,Belgium,Thibaut Courtois,Complete,3.0,28.0
+pass,1,00:19:18.980,Belgium,Eden Hazard,Complete,66.0,6.0
+pass,1,00:19:20.700,Belgium,Nacer Chadli,Complete,56.0,4.0
+pass,1,00:19:22.140,Belgium,Jan Vertonghen,Complete,43.0,15.0
+pass,1,00:19:41.500,Belgium,Axel Witsel,Complete,66.0,25.0
+pass,1,00:19:44.460,Belgium,Eden Hazard,Complete,73.0,28.0
+pass,1,00:19:46.633,Brazil,Philippe Coutinho Correia,Complete,35.0,40.0
+pass,1,00:19:47.153,Brazil,Fernando Luiz Rosa,Complete,33.0,43.0
+pass,1,00:19:49.020,Brazil,João Miranda de Souza Filho,Complete,32.0,39.0
+pass,1,00:19:53.100,Brazil,Marcelo Vieira da Silva Júnior,Complete,32.0,23.0
+pass,1,00:19:57.820,Brazil,Philippe Coutinho Correia,Incomplete,54.0,38.0
+pass,1,00:20:02.780,Belgium,Nacer Chadli,Complete,40.0,20.0
+pass,1,00:20:21.380,Belgium,Nacer Chadli,Complete,55.0,1.0
+pass,1,00:20:24.220,Belgium,Eden Hazard,Complete,56.0,8.0
+pass,1,00:20:25.340,Belgium,Kevin De Bruyne,Complete,68.0,7.0
+pass,1,00:20:31.420,Belgium,Eden Hazard,Complete,94.0,52.0
+pass,1,00:20:33.140,Belgium,Nacer Chadli,Incomplete,113.0,55.0
+pass,1,00:20:39.940,Belgium,Nacer Chadli,Incomplete,103.0,72.0
+pass,1,00:20:45.260,Belgium,Marcelo Vieira da Silva Júnior,Incomplete,5.0,2.0
+pass,1,00:20:48.793,Belgium,Kevin De Bruyne,Complete,93.0,73.0
+pass,1,00:20:50.020,Belgium,Axel Witsel,Complete,85.0,56.0
+pass,1,00:21:19.460,Brazil,Fágner Conserva Lemos,Complete,51.0,58.0
+pass,1,00:21:20.830,Brazil,José Paulo Bezzera Maciel Júnior,Complete,49.0,56.0
+pass,1,00:21:23.060,Brazil,Thiago Emiliano da Silva,Complete,36.0,52.0
+pass,1,00:21:26.980,Brazil,João Miranda de Souza Filho,Complete,48.0,25.0
+pass,1,00:21:29.620,Brazil,Marcelo Vieira da Silva Júnior,Complete,56.0,6.0
+pass,1,00:21:30.513,Brazil,Neymar da Silva Santos Junior,Complete,65.0,5.0
+pass,1,00:21:32.420,Brazil,Marcelo Vieira da Silva Júnior,Complete,56.0,4.0
+pass,1,00:21:37.020,Brazil,João Miranda de Souza Filho,Complete,54.0,30.0
+pass,1,00:21:39.500,Brazil,Neymar da Silva Santos Junior,Complete,63.0,25.0
+pass,1,00:21:46.100,Brazil,Marcelo Vieira da Silva Júnior,Complete,87.0,17.0
+pass,1,00:21:48.820,Brazil,Fernando Luiz Rosa,Complete,75.0,41.0
+pass,1,00:21:55.460,Brazil,Willian Borges da Silva,Incomplete,106.0,65.0
+pass,1,00:22:05.300,Belgium,Kevin De Bruyne,Complete,82.0,30.0
+pass,1,00:22:53.100,Belgium,Kevin De Bruyne,Complete,120.0,80.0
+pass,1,00:23:01.140,Belgium,Jan Vertonghen,Complete,79.0,4.0
+pass,1,00:23:08.060,Belgium,Thibaut Courtois,Complete,25.0,26.0
+pass,1,00:23:11.340,Belgium,Kevin De Bruyne,Incomplete,70.0,77.0
+pass,1,00:23:16.220,Brazil,João Miranda de Souza Filho,Complete,31.0,19.0
+pass,1,00:23:18.960,Brazil,Marcelo Vieira da Silva Júnior,Complete,40.0,5.0
+pass,1,00:23:21.220,Brazil,Philippe Coutinho Correia,Complete,46.0,20.0
+pass,1,00:23:23.140,Brazil,Fernando Luiz Rosa,Complete,37.0,36.0
+pass,1,00:23:27.060,Brazil,José Paulo Bezzera Maciel Júnior,Complete,56.0,54.0
+pass,1,00:23:29.020,Brazil,Fágner Conserva Lemos,Complete,53.0,67.0
+pass,1,00:23:31.180,Brazil,Thiago Emiliano da Silva,Complete,44.0,53.0
+pass,1,00:23:33.900,Brazil,Philippe Coutinho Correia,Complete,56.0,30.0
+pass,1,00:23:36.780,Brazil,Marcelo Vieira da Silva Júnior,Complete,63.0,6.0
+pass,1,00:23:40.540,Brazil,Neymar da Silva Santos Junior,Complete,66.0,23.0
+pass,1,00:23:45.580,Brazil,Philippe Coutinho Correia,Complete,65.0,27.0
+pass,1,00:23:47.420,Brazil,Fernando Luiz Rosa,Complete,54.0,34.0
+pass,1,00:23:48.780,Brazil,José Paulo Bezzera Maciel Júnior,Complete,56.0,48.0
+pass,1,00:23:50.540,Brazil,Thiago Emiliano da Silva,Complete,53.0,50.0
+pass,1,00:24:20.060,Belgium,Thomas Meunier,Incomplete,18.0,80.0
+pass,1,00:24:21.620,Brazil,Marcelo Vieira da Silva Júnior,Complete,80.0,5.0
+pass,1,00:24:23.140,Brazil,Philippe Coutinho Correia,Complete,80.0,2.0
+pass,1,00:24:26.460,Brazil,Marcelo Vieira da Silva Júnior,Incomplete,76.0,8.0
+pass,1,00:24:29.180,Brazil,Gabriel Fernando de Jesus,Complete,94.0,11.0
+pass,1,00:24:32.460,Brazil,Philippe Coutinho Correia,Complete,91.0,3.0
+pass,1,00:24:39.100,Brazil,Neymar da Silva Santos Junior,Complete,95.0,20.0
+pass,1,00:24:41.020,Brazil,Fernando Luiz Rosa,Complete,77.0,35.0
+pass,1,00:24:48.940,Brazil,José Paulo Bezzera Maciel Júnior,Complete,99.0,63.0
+pass,1,00:24:51.940,Brazil,Fágner Conserva Lemos,Complete,103.0,69.0
+pass,1,00:24:53.540,Brazil,Willian Borges da Silva,Complete,106.0,65.0
+pass,1,00:24:55.233,Brazil,José Paulo Bezzera Maciel Júnior,Complete,99.0,78.0
+pass,1,00:25:07.020,Brazil,Fágner Conserva Lemos,Complete,84.0,80.0
+pass,1,00:25:08.580,Brazil,Willian Borges da Silva,Complete,76.0,75.0
+pass,1,00:25:11.860,Brazil,João Miranda de Souza Filho,Complete,55.0,51.0
+pass,1,00:25:24.433,Belgium,Toby Alderweireld,Complete,5.0,61.0
+pass,1,00:25:30.700,Belgium,Romelu Lukaku Menama,Complete,51.0,76.0
+pass,1,00:25:34.340,Belgium,Axel Witsel,Complete,50.0,65.0
+pass,1,00:25:35.940,Belgium,Vincent Kompany,Complete,37.0,48.0
+pass,1,00:25:43.300,Belgium,Eden Hazard,Complete,84.0,25.0
+pass,1,00:25:45.660,Belgium,Kevin De Bruyne,Incomplete,104.0,21.0
+pass,1,00:26:06.620,Brazil,Philippe Coutinho Correia,Complete,62.0,6.0
+pass,1,00:26:09.780,Belgium,Toby Alderweireld,Complete,36.0,58.0
+pass,1,00:26:12.113,Belgium,Kevin De Bruyne,Complete,43.0,56.0
+pass,1,00:26:16.980,Belgium,Romelu Lukaku Menama,Incomplete,65.0,72.0
+pass,1,00:26:19.620,Brazil,Fernando Luiz Rosa,Complete,57.0,39.0
+pass,1,00:26:21.140,Brazil,Willian Borges da Silva,Complete,54.0,50.0
+pass,1,00:26:24.780,Brazil,José Paulo Bezzera Maciel Júnior,Complete,52.0,38.0
+pass,1,00:26:27.140,Brazil,João Miranda de Souza Filho,Complete,45.0,35.0
+pass,1,00:26:28.220,Brazil,Fernando Luiz Rosa,Complete,55.0,46.0
+pass,1,00:26:30.660,Brazil,José Paulo Bezzera Maciel Júnior,Complete,53.0,47.0
+pass,1,00:26:32.980,Brazil,Fágner Conserva Lemos,Complete,53.0,59.0
+pass,1,00:26:36.180,Brazil,José Paulo Bezzera Maciel Júnior,Complete,55.0,49.0
+pass,1,00:26:44.020,Brazil,Philippe Coutinho Correia,Complete,72.0,39.0
+pass,1,00:26:45.940,Brazil,José Paulo Bezzera Maciel Júnior,Complete,66.0,50.0
+pass,1,00:26:47.300,Brazil,Willian Borges da Silva,Complete,70.0,55.0
+pass,1,00:26:49.940,Brazil,José Paulo Bezzera Maciel Júnior,Complete,60.0,52.0
+pass,1,00:26:53.620,Brazil,João Miranda de Souza Filho,Complete,58.0,33.0
+pass,1,00:27:02.260,Brazil,Marcelo Vieira da Silva Júnior,Complete,77.0,15.0
+pass,1,00:27:04.433,Brazil,João Miranda de Souza Filho,Complete,58.0,27.0
+pass,1,00:27:14.700,Brazil,Thiago Emiliano da Silva,Incomplete,77.0,39.0
+pass,1,00:27:17.100,Belgium,Marouane Fellaini-Bakkioui,Complete,32.0,64.0
+pass,1,00:27:21.300,Belgium,Romelu Lukaku Menama,Complete,56.0,76.0
+pass,1,00:27:24.340,Belgium,Jan Vertonghen,Incomplete,60.0,21.0
+pass,1,00:28:14.580,Brazil,Philippe Coutinho Correia,Complete,76.0,39.0
+pass,1,00:28:17.340,Brazil,José Paulo Bezzera Maciel Júnior,Complete,86.0,57.0
+pass,1,00:28:21.140,Brazil,Willian Borges da Silva,Complete,97.0,69.0
+pass,1,00:29:24.353,Brazil,Willian Borges da Silva,Incomplete,118.0,77.0
+pass,1,00:30:32.580,Brazil,Neymar da Silva Santos Junior,Incomplete,119.0,2.0
+pass,1,00:30:44.340,Belgium,Romelu Lukaku Menama,Complete,77.0,37.0
+pass,1,00:32:14.380,Brazil,Philippe Coutinho Correia,Complete,74.0,19.0
+pass,1,00:32:19.820,Brazil,Neymar da Silva Santos Junior,Complete,93.0,29.0
+pass,1,00:32:20.820,Brazil,Philippe Coutinho Correia,Incomplete,99.0,28.0
+pass,1,00:32:36.220,Brazil,João Miranda de Souza Filho,Complete,68.0,10.0
+pass,1,00:32:40.500,Brazil,Philippe Coutinho Correia,Complete,71.0,23.0
+pass,1,00:32:42.900,Brazil,José Paulo Bezzera Maciel Júnior,Complete,74.0,45.0
+pass,1,00:32:48.740,Brazil,Willian Borges da Silva,Incomplete,110.0,69.0
+pass,1,00:32:56.620,Belgium,Kevin De Bruyne,Complete,49.0,26.0
+pass,1,00:32:58.700,Belgium,Eden Hazard,Complete,68.0,11.0
+pass,1,00:33:03.060,Belgium,Nacer Chadli,Complete,92.0,15.0
+pass,1,00:33:04.420,Belgium,Eden Hazard,Complete,90.0,10.0
+pass,1,00:33:05.860,Belgium,Nacer Chadli,Incomplete,92.0,13.0
+pass,1,00:33:28.740,Belgium,Nacer Chadli,Complete,88.0,1.0
+pass,1,00:33:36.700,Belgium,Eden Hazard,Complete,109.0,11.0
+pass,1,00:33:38.540,Belgium,Nacer Chadli,Complete,93.0,7.0
+pass,1,00:33:40.420,Belgium,Jan Vertonghen,Complete,72.0,15.0
+pass,1,00:33:43.260,Belgium,Vincent Kompany,Complete,57.0,33.0
+pass,1,00:33:44.980,Belgium,Axel Witsel,Complete,72.0,32.0
+pass,1,00:33:46.180,Belgium,Kevin De Bruyne,Complete,83.0,24.0
+pass,1,00:33:49.633,Belgium,Jan Vertonghen,Complete,71.0,14.0
+pass,1,00:33:55.180,Belgium,Vincent Kompany,Complete,55.0,40.0
+pass,1,00:33:57.033,Belgium,Toby Alderweireld,Complete,45.0,62.0
+pass,1,00:34:00.740,Belgium,Marouane Fellaini-Bakkioui,Complete,58.0,78.0
+pass,1,00:34:04.620,Belgium,Axel Witsel,Complete,64.0,66.0
+pass,1,00:34:40.540,Brazil,José Paulo Bezzera Maciel Júnior,Complete,64.0,52.0
+pass,1,00:34:44.100,Brazil,Willian Borges da Silva,Complete,68.0,73.0
+pass,1,00:34:51.300,Brazil,Thiago Emiliano da Silva,Complete,62.0,45.0
+pass,1,00:34:59.060,Brazil,Philippe Coutinho Correia,Complete,95.0,25.0
+pass,1,00:35:00.620,Brazil,Neymar da Silva Santos Junior,Complete,91.0,21.0
+pass,1,00:35:03.100,Brazil,Marcelo Vieira da Silva Júnior,Complete,105.0,11.0
+pass,1,00:35:34.260,Belgium,Thibaut Courtois,Incomplete,6.0,40.0
+pass,1,00:35:38.433,Belgium,Fernando Luiz Rosa,Incomplete,37.0,26.0
+pass,1,00:35:40.540,Belgium,Marouane Fellaini-Bakkioui,Incomplete,80.0,52.0
+pass,1,00:35:42.593,Brazil,Fernando Luiz Rosa,Complete,32.0,28.0
+pass,1,00:35:46.980,Brazil,Marcelo Vieira da Silva Júnior,Complete,35.0,13.0
+pass,1,00:35:50.380,Brazil,Philippe Coutinho Correia,Complete,42.0,24.0
+pass,1,00:35:53.420,Brazil,Fernando Luiz Rosa,Complete,53.0,37.0
+pass,1,00:35:57.100,Brazil,José Paulo Bezzera Maciel Júnior,Complete,54.0,54.0
+pass,1,00:35:59.220,Brazil,Fágner Conserva Lemos,Complete,61.0,77.0
+pass,1,00:36:03.580,Brazil,José Paulo Bezzera Maciel Júnior,Incomplete,54.0,77.0
+pass,1,00:36:10.553,Brazil,Fágner Conserva Lemos,Complete,83.0,80.0
+pass,1,00:36:15.580,Brazil,Willian Borges da Silva,Complete,83.0,66.0
+pass,1,00:36:20.740,Brazil,Philippe Coutinho Correia,Complete,92.0,24.0
+pass,1,00:36:22.780,Brazil,Neymar da Silva Santos Junior,Complete,105.0,21.0
+pass,1,00:36:24.553,Brazil,Marcelo Vieira da Silva Júnior,Incomplete,117.0,21.0
+pass,1,00:36:32.420,Brazil,Neymar da Silva Santos Junior,Complete,120.0,2.0
+pass,1,00:36:34.513,Brazil,Marcelo Vieira da Silva Júnior,Complete,113.0,3.0
+pass,1,00:37:05.940,Brazil,Willian Borges da Silva,Incomplete,119.0,80.0
+pass,1,00:37:08.740,Brazil,Nacer Chadli,Complete,18.0,23.0
+pass,1,00:37:11.780,Brazil,Fernando Luiz Rosa,Complete,74.0,52.0
+pass,1,00:37:20.140,Brazil,Neymar da Silva Santos Junior,Incomplete,99.0,25.0
+pass,1,00:37:24.620,Brazil,Fernando Luiz Rosa,Complete,93.0,44.0
+pass,1,00:37:29.740,Brazil,Willian Borges da Silva,Complete,99.0,63.0
+pass,1,00:37:31.740,Brazil,Fernando Luiz Rosa,Incomplete,112.0,65.0
+pass,1,00:37:38.220,Belgium,Kevin De Bruyne,Complete,46.0,24.0
+pass,1,00:37:44.900,Belgium,Eden Hazard,Complete,92.0,27.0
+pass,1,00:37:46.140,Belgium,Kevin De Bruyne,Complete,95.0,42.0
+pass,1,00:37:48.060,Belgium,Romelu Lukaku Menama,Complete,99.0,51.0
+pass,1,00:37:51.620,Belgium,Thomas Meunier,Complete,96.0,63.0
+pass,1,00:37:54.420,Belgium,Marouane Fellaini-Bakkioui,Complete,89.0,57.0
+pass,1,00:37:56.260,Belgium,Thomas Meunier,Complete,90.0,77.0
+pass,1,00:37:58.260,Belgium,Marouane Fellaini-Bakkioui,Complete,86.0,68.0
+pass,1,00:38:00.780,Belgium,Axel Witsel,Complete,82.0,39.0
+pass,1,00:38:02.713,Belgium,Nacer Chadli,Complete,86.0,13.0
+pass,1,00:38:04.513,Belgium,Jan Vertonghen,Complete,80.0,23.0
+pass,1,00:38:06.380,Belgium,Axel Witsel,Complete,73.0,32.0
+pass,1,00:38:07.153,Belgium,Eden Hazard,Complete,80.0,24.0
+pass,1,00:38:08.300,Belgium,Axel Witsel,Complete,75.0,40.0
+pass,1,00:38:09.180,Belgium,Eden Hazard,Complete,81.0,30.0
+pass,1,00:38:10.060,Belgium,Axel Witsel,Complete,74.0,40.0
+pass,1,00:38:13.900,Belgium,Eden Hazard,Complete,74.0,24.0
+pass,1,00:38:15.660,Belgium,Jan Vertonghen,Complete,67.0,20.0
+pass,1,00:38:18.700,Belgium,Vincent Kompany,Complete,45.0,43.0
+pass,1,00:38:22.020,Belgium,Toby Alderweireld,Complete,42.0,58.0
+pass,1,00:38:24.220,Belgium,Vincent Kompany,Complete,33.0,51.0
+pass,1,00:38:29.020,Belgium,Thibaut Courtois,Incomplete,13.0,56.0
+pass,1,00:38:32.220,Belgium,Marcelo Vieira da Silva Júnior,Incomplete,54.0,8.0
+pass,1,00:38:35.100,Belgium,Marouane Fellaini-Bakkioui,Complete,57.0,53.0
+pass,1,00:38:37.113,Belgium,Romelu Lukaku Menama,Complete,75.0,57.0
+pass,1,00:38:39.940,Belgium,Kevin De Bruyne,Complete,72.0,41.0
+pass,1,00:38:45.780,Belgium,Eden Hazard,Complete,100.0,29.0
+pass,1,00:38:48.100,Belgium,Kevin De Bruyne,Incomplete,96.0,37.0
+pass,1,00:38:54.780,Belgium,Jan Vertonghen,Complete,78.0,33.0
+pass,1,00:38:57.460,Belgium,Toby Alderweireld,Complete,56.0,50.0
+pass,1,00:39:02.420,Belgium,Thibaut Courtois,Complete,25.0,46.0
+pass,1,00:39:04.340,Belgium,Toby Alderweireld,Complete,33.0,46.0
+pass,1,00:39:05.980,Belgium,Thibaut Courtois,Complete,19.0,41.0
+pass,1,00:39:11.660,Belgium,Thomas Meunier,Complete,53.0,77.0
+pass,1,00:39:13.300,Belgium,Marouane Fellaini-Bakkioui,Complete,49.0,71.0
+pass,1,00:39:16.740,Belgium,Axel Witsel,Complete,55.0,48.0
+pass,1,00:39:18.260,Belgium,Vincent Kompany,Complete,42.0,47.0
+pass,1,00:39:19.140,Belgium,Axel Witsel,Complete,53.0,47.0
+pass,1,00:39:20.660,Belgium,Vincent Kompany,Complete,40.0,40.0
+pass,1,00:39:23.140,Belgium,Jan Vertonghen,Complete,43.0,12.0
+pass,1,00:39:25.100,Belgium,Nacer Chadli,Complete,72.0,6.0
+pass,1,00:39:25.540,Belgium,Kevin De Bruyne,Complete,69.0,14.0
+pass,1,00:39:26.580,Belgium,Nacer Chadli,Complete,63.0,12.0
+pass,1,00:39:31.300,Belgium,Eden Hazard,Complete,72.0,16.0
+pass,1,00:39:33.540,Belgium,Nacer Chadli,Complete,75.0,3.0
+pass,1,00:41:15.700,Belgium,Nacer Chadli,Complete,120.0,2.0
+pass,1,00:41:33.740,Brazil,José Paulo Bezzera Maciel Júnior,Complete,52.0,50.0
+pass,1,00:41:36.153,Brazil,Fágner Conserva Lemos,Complete,53.0,76.0
+pass,1,00:41:38.433,Brazil,Thiago Emiliano da Silva,Complete,47.0,56.0
+pass,1,00:41:41.940,Brazil,João Miranda de Souza Filho,Complete,54.0,29.0
+pass,1,00:41:44.153,Brazil,Philippe Coutinho Correia,Complete,62.0,26.0
+pass,1,00:41:49.260,Brazil,Neymar da Silva Santos Junior,Complete,91.0,6.0
+pass,1,00:41:51.500,Brazil,Marcelo Vieira da Silva Júnior,Complete,101.0,7.0
+pass,1,00:42:00.140,Brazil,Neymar da Silva Santos Junior,Complete,98.0,17.0
+pass,1,00:42:04.860,Brazil,Neymar da Silva Santos Junior,Complete,87.0,41.0
+pass,1,00:42:09.113,Brazil,Willian Borges da Silva,Complete,104.0,65.0
+pass,1,00:42:13.020,Belgium,Marouane Fellaini-Bakkioui,Complete,23.0,35.0
+pass,1,00:42:14.313,Belgium,Kevin De Bruyne,Complete,27.0,30.0
+pass,1,00:42:15.580,Belgium,Marouane Fellaini-Bakkioui,Complete,32.0,41.0
+pass,1,00:42:19.580,Brazil,Willian Borges da Silva,Complete,58.0,54.0
+pass,1,00:42:24.300,Brazil,Fernando Luiz Rosa,Incomplete,73.0,61.0
+pass,1,00:42:38.140,Brazil,Marouane Fellaini-Bakkioui,Complete,37.0,52.0
+pass,1,00:42:39.793,Brazil,Axel Witsel,Complete,29.0,52.0
+pass,1,00:42:42.100,Brazil,Kevin De Bruyne,Complete,19.0,57.0
+pass,1,00:42:44.340,Brazil,Thibaut Courtois,Complete,7.0,43.0
+pass,1,00:42:49.020,Brazil,Jan Vertonghen,Complete,9.0,9.0
+pass,1,00:42:51.180,Brazil,Eden Hazard,Incomplete,63.0,23.0
+pass,1,00:42:53.940,Brazil,Thiago Emiliano da Silva,Complete,52.0,49.0
+pass,1,00:42:57.900,Brazil,Marcelo Vieira da Silva Júnior,Complete,55.0,29.0
+pass,1,00:42:58.793,Brazil,Philippe Coutinho Correia,Complete,59.0,31.0
+pass,1,00:43:00.420,Brazil,Marcelo Vieira da Silva Júnior,Complete,53.0,30.0
+pass,1,00:43:05.700,Brazil,Thiago Emiliano da Silva,Complete,54.0,47.0
+pass,1,00:43:12.900,Brazil,Willian Borges da Silva,Complete,83.0,47.0
+pass,1,00:43:19.060,Brazil,Marcelo Vieira da Silva Júnior,Complete,97.0,19.0
+pass,1,00:43:20.420,Brazil,Philippe Coutinho Correia,Complete,91.0,32.0
+pass,1,00:43:23.820,Brazil,Fernando Luiz Rosa,Complete,85.0,40.0
+pass,1,00:43:25.860,Brazil,Philippe Coutinho Correia,Complete,87.0,26.0
+pass,1,00:43:28.580,Brazil,Marcelo Vieira da Silva Júnior,Incomplete,102.0,15.0
+pass,1,00:43:39.300,Brazil,Philippe Coutinho Correia,Complete,73.0,15.0
+pass,1,00:43:42.670,Brazil,Marcelo Vieira da Silva Júnior,Complete,98.0,8.0
+pass,1,00:43:48.180,Brazil,Philippe Coutinho Correia,Complete,87.0,24.0
+pass,1,00:43:56.833,Brazil,Willian Borges da Silva,Complete,96.0,55.0
+pass,1,00:43:58.913,Brazil,Fernando Luiz Rosa,Complete,82.0,42.0
+pass,1,00:44:00.873,Brazil,Philippe Coutinho Correia,Complete,86.0,30.0
+pass,1,00:44:01.633,Brazil,Neymar da Silva Santos Junior,Complete,98.0,26.0
+pass,1,00:44:07.340,Brazil,Philippe Coutinho Correia,Complete,103.0,23.0
+pass,1,00:44:18.820,Brazil,João Miranda de Souza Filho,Complete,42.0,12.0
+pass,1,00:44:20.900,Brazil,Thiago Emiliano da Silva,Complete,49.0,31.0
+pass,1,00:44:25.340,Brazil,José Paulo Bezzera Maciel Júnior,Complete,63.0,42.0
+pass,1,00:44:27.820,Brazil,Philippe Coutinho Correia,Complete,72.0,26.0
+pass,1,00:44:29.660,Brazil,Marcelo Vieira da Silva Júnior,Complete,92.0,6.0
+pass,1,00:44:33.220,Brazil,Neymar da Silva Santos Junior,Incomplete,110.0,14.0
+pass,1,00:44:37.820,Brazil,Thomas Meunier,Complete,17.0,60.0
+pass,1,00:44:43.660,Belgium,Kevin De Bruyne,Complete,57.0,45.0
+pass,1,00:44:49.500,Belgium,Eden Hazard,Complete,64.0,17.0
+pass,1,00:44:51.140,Belgium,Jan Vertonghen,Complete,51.0,16.0
+pass,1,00:44:51.940,Belgium,Axel Witsel,Complete,47.0,30.0
+pass,1,00:44:53.180,Belgium,Vincent Kompany,Complete,37.0,26.0
+pass,1,00:44:55.820,Belgium,Marouane Fellaini-Bakkioui,Complete,50.0,59.0
+pass,1,00:45:00.113,Belgium,Thomas Meunier,Complete,81.0,79.0
+pass,1,00:45:02.260,Belgium,Marouane Fellaini-Bakkioui,Complete,68.0,75.0
+pass,1,00:45:04.860,Belgium,Toby Alderweireld,Complete,56.0,65.0
+pass,1,00:45:08.180,Belgium,Vincent Kompany,Complete,48.0,34.0
+pass,1,00:45:11.060,Belgium,Jan Vertonghen,Complete,48.0,18.0
+pass,1,00:45:15.220,Belgium,Thibaut Courtois,Incomplete,9.0,36.0
+pass,1,00:45:21.273,Brazil,Fágner Conserva Lemos,Complete,34.0,75.0
+pass,1,00:45:23.513,Brazil,Alisson Ramsés Becker,Complete,12.0,48.0
+pass,1,00:45:26.713,Brazil,Thiago Emiliano da Silva,Complete,28.0,52.0
+pass,1,00:45:29.100,Brazil,Fernando Luiz Rosa,Complete,39.0,41.0
+pass,2,00:00:01.547,Belgium,Kevin De Bruyne,Complete,60.0,41.0
+pass,2,00:00:03.427,Belgium,Axel Witsel,Complete,48.0,37.0
+pass,2,00:00:05.667,Belgium,Jan Vertonghen,Complete,33.0,11.0
+pass,2,00:00:07.627,Belgium,Vincent Kompany,Complete,27.0,29.0
+pass,2,00:00:10.507,Belgium,Jan Vertonghen,Complete,30.0,13.0
+pass,2,00:00:12.707,Belgium,Kevin De Bruyne,Complete,50.0,34.0
+pass,2,00:00:15.987,Belgium,Kevin De Bruyne,Complete,52.0,34.0
+pass,2,00:00:22.267,Belgium,Marouane Fellaini-Bakkioui,Complete,50.0,58.0
+pass,2,00:00:24.707,Belgium,Vincent Kompany,Complete,41.0,52.0
+pass,2,00:00:25.600,Belgium,Axel Witsel,Complete,51.0,39.0
+pass,2,00:00:27.080,Belgium,Vincent Kompany,Complete,36.0,42.0
+pass,2,00:00:32.867,Belgium,Jan Vertonghen,Complete,43.0,5.0
+pass,2,00:00:33.920,Belgium,Axel Witsel,Complete,52.0,13.0
+pass,2,00:00:35.067,Belgium,Nacer Chadli,Complete,62.0,3.0
+pass,2,00:01:27.027,Belgium,Kevin De Bruyne,Complete,102.0,2.0
+pass,2,00:01:28.547,Belgium,Eden Hazard,Complete,91.0,7.0
+pass,2,00:01:30.707,Belgium,Axel Witsel,Complete,84.0,19.0
+pass,2,00:01:34.027,Belgium,Eden Hazard,Complete,86.0,9.0
+pass,2,00:01:37.667,Belgium,Thomas Meunier,Complete,66.0,38.0
+pass,2,00:01:39.547,Belgium,Marouane Fellaini-Bakkioui,Complete,96.0,29.0
+pass,2,00:01:43.387,Brazil,Fernando Luiz Rosa,Complete,20.0,59.0
+pass,2,00:01:45.507,Brazil,Roberto Firmino Barbosa de Oliveira,Complete,42.0,68.0
+pass,2,00:02:21.427,Brazil,Neymar da Silva Santos Junior,Complete,82.0,50.0
+pass,2,00:02:23.547,Brazil,Roberto Firmino Barbosa de Oliveira,Complete,90.0,67.0
+pass,2,00:02:25.427,Brazil,Gabriel Fernando de Jesus,Complete,95.0,67.0
+pass,2,00:02:27.227,Brazil,Roberto Firmino Barbosa de Oliveira,Incomplete,110.0,67.0
+pass,2,00:02:32.027,Brazil,Axel Witsel,Incomplete,9.0,10.0
+pass,2,00:02:37.200,Brazil,José Paulo Bezzera Maciel Júnior,Complete,84.0,73.0
+pass,2,00:02:39.067,Brazil,Neymar da Silva Santos Junior,Complete,90.0,54.0
+pass,2,00:02:43.387,Brazil,Jan Vertonghen,Incomplete,13.0,22.0
+pass,2,00:02:50.227,Brazil,Fernando Luiz Rosa,Complete,49.0,71.0
+pass,2,00:02:53.227,Brazil,Thiago Emiliano da Silva,Complete,32.0,58.0
+pass,2,00:02:56.227,Brazil,Alisson Ramsés Becker,Complete,10.0,39.0
+pass,2,00:02:58.067,Brazil,Marcelo Vieira da Silva Júnior,Complete,34.0,16.0
+pass,2,00:03:01.107,Brazil,João Miranda de Souza Filho,Complete,31.0,26.0
+pass,2,00:03:01.907,Brazil,Fernando Luiz Rosa,Complete,42.0,28.0
+pass,2,00:03:03.800,Brazil,João Miranda de Souza Filho,Complete,38.0,26.0
+pass,2,00:03:10.079,Brazil,Thiago Emiliano da Silva,Complete,62.0,40.0
+pass,2,00:03:12.307,Brazil,Neymar da Silva Santos Junior,Complete,68.0,44.0
+pass,2,00:03:13.387,Brazil,Roberto Firmino Barbosa de Oliveira,Complete,76.0,46.0
+pass,2,00:03:15.987,Brazil,Neymar da Silva Santos Junior,Complete,88.0,54.0
+pass,2,00:03:20.547,Brazil,Gabriel Fernando de Jesus,Complete,111.0,61.0
+pass,2,00:03:29.107,Belgium,Vincent Kompany,Complete,44.0,15.0
+pass,2,00:03:31.307,Belgium,Kevin De Bruyne,Complete,65.0,39.0
+pass,2,00:03:41.987,Brazil,Alisson Ramsés Becker,Complete,17.0,34.0
+pass,2,00:03:43.267,Brazil,João Miranda de Souza Filho,Complete,21.0,26.0
+pass,2,00:03:46.707,Brazil,Marcelo Vieira da Silva Júnior,Complete,38.0,24.0
+pass,2,00:03:51.787,Brazil,Philippe Coutinho Correia,Complete,60.0,42.0
+pass,2,00:03:55.067,Brazil,Gabriel Fernando de Jesus,Complete,74.0,75.0
+pass,2,00:03:57.507,Brazil,Neymar da Silva Santos Junior,Complete,73.0,53.0
+pass,2,00:04:02.227,Brazil,Philippe Coutinho Correia,Complete,95.0,32.0
+pass,2,00:04:04.987,Brazil,Marcelo Vieira da Silva Júnior,Complete,97.0,17.0
+pass,2,00:04:08.720,Brazil,Roberto Firmino Barbosa de Oliveira,Incomplete,118.0,26.0
+pass,2,00:04:20.787,Brazil,Neymar da Silva Santos Junior,Complete,93.0,19.0
+pass,2,00:04:24.267,Brazil,Philippe Coutinho Correia,Complete,100.0,16.0
+pass,2,00:04:26.267,Brazil,Marcelo Vieira da Silva Júnior,Complete,88.0,26.0
+pass,2,00:04:55.387,Belgium,Thomas Meunier,Complete,45.0,80.0
+pass,2,00:05:03.267,Brazil,Marcelo Vieira da Silva Júnior,Complete,50.0,1.0
+pass,2,00:05:09.720,Brazil,Thiago Emiliano da Silva,Complete,49.0,43.0
+pass,2,00:05:13.187,Brazil,Fágner Conserva Lemos,Complete,60.0,74.0
+pass,2,00:05:15.027,Brazil,José Paulo Bezzera Maciel Júnior,Complete,66.0,76.0
+pass,2,00:05:16.667,Brazil,Fágner Conserva Lemos,Complete,57.0,78.0
+pass,2,00:05:23.027,Brazil,Thiago Emiliano da Silva,Complete,62.0,53.0
+pass,2,00:05:23.827,Brazil,Fernando Luiz Rosa,Complete,65.0,41.0
+pass,2,00:05:28.320,Brazil,Thiago Emiliano da Silva,Complete,66.0,46.0
+pass,2,00:05:31.467,Brazil,Neymar da Silva Santos Junior,Complete,74.0,42.0
+pass,2,00:05:33.280,Brazil,Philippe Coutinho Correia,Complete,83.0,26.0
+pass,2,00:06:04.187,Belgium,Thibaut Courtois,Incomplete,4.0,30.0
+pass,2,00:06:10.627,Belgium,Fágner Conserva Lemos,Incomplete,49.0,66.0
+pass,2,00:06:15.147,Brazil,Fernando Luiz Rosa,Complete,66.0,70.0
+pass,2,00:06:19.107,Brazil,Gabriel Fernando de Jesus,Complete,74.0,73.0
+pass,2,00:06:22.707,Brazil,Philippe Coutinho Correia,Complete,71.0,33.0
+pass,2,00:06:25.627,Brazil,Neymar da Silva Santos Junior,Complete,96.0,27.0
+pass,2,00:06:27.707,Brazil,Marcelo Vieira da Silva Júnior,Incomplete,116.0,19.0
+pass,2,00:06:35.827,Brazil,Neymar da Silva Santos Junior,Complete,99.0,1.0
+pass,2,00:06:37.587,Brazil,Philippe Coutinho Correia,Complete,92.0,6.0
+pass,2,00:06:38.907,Brazil,Neymar da Silva Santos Junior,Complete,97.0,4.0
+pass,2,00:06:50.987,Brazil,João Miranda de Souza Filho,Complete,57.0,25.0
+pass,2,00:06:53.267,Brazil,Philippe Coutinho Correia,Complete,67.0,26.0
+pass,2,00:07:15.947,Brazil,Philippe Coutinho Correia,Complete,86.0,7.0
+pass,2,00:07:19.747,Brazil,Neymar da Silva Santos Junior,Complete,88.0,21.0
+pass,2,00:07:24.027,Brazil,Philippe Coutinho Correia,Complete,93.0,17.0
+pass,2,00:07:27.000,Brazil,Fernando Luiz Rosa,Complete,87.0,38.0
+pass,2,00:07:29.027,Brazil,José Paulo Bezzera Maciel Júnior,Complete,95.0,58.0
+pass,2,00:07:33.520,Brazil,Gabriel Fernando de Jesus,Incomplete,109.0,62.0
+pass,2,00:07:38.187,Brazil,Eden Hazard,Incomplete,35.0,12.0
+pass,2,00:07:39.747,Brazil,Fernando Luiz Rosa,Complete,71.0,57.0
+pass,2,00:07:43.587,Brazil,Thiago Emiliano da Silva,Complete,64.0,46.0
+pass,2,00:07:46.787,Brazil,Marcelo Vieira da Silva Júnior,Complete,68.0,26.0
+pass,2,00:07:53.587,Brazil,Philippe Coutinho Correia,Complete,82.0,48.0
+pass,2,00:07:54.280,Brazil,Roberto Firmino Barbosa de Oliveira,Incomplete,95.0,49.0
+pass,2,00:08:27.667,Brazil,Fernando Luiz Rosa,Complete,66.0,42.0
+pass,2,00:08:33.187,Brazil,Thiago Emiliano da Silva,Complete,81.0,54.0
+pass,2,00:08:36.067,Brazil,Neymar da Silva Santos Junior,Complete,86.0,39.0
+pass,2,00:08:39.707,Brazil,Marcelo Vieira da Silva Júnior,Complete,106.0,17.0
+pass,2,00:08:41.747,Brazil,Gabriel Fernando de Jesus,Incomplete,118.0,53.0
+pass,2,00:08:46.227,Brazil,Eden Hazard,Incomplete,34.0,16.0
+pass,2,00:08:47.920,Brazil,Fágner Conserva Lemos,Complete,75.0,62.0
+pass,2,00:08:51.387,Brazil,Thiago Emiliano da Silva,Complete,83.0,69.0
+pass,2,00:08:55.307,Brazil,José Paulo Bezzera Maciel Júnior,Complete,96.0,77.0
+pass,2,00:08:57.507,Brazil,Roberto Firmino Barbosa de Oliveira,Complete,98.0,78.0
+pass,2,00:08:58.787,Brazil,Fágner Conserva Lemos,Complete,93.0,59.0
+pass,2,00:09:03.387,Brazil,José Paulo Bezzera Maciel Júnior,Incomplete,119.0,47.0
+pass,2,00:09:07.880,Belgium,Thomas Meunier,Complete,4.0,68.0
+pass,2,00:09:14.027,Belgium,Romelu Lukaku Menama,Complete,55.0,69.0
+pass,2,00:09:15.227,Brazil,João Miranda de Souza Filho,Complete,58.0,27.0
+pass,2,00:09:18.920,Brazil,Fernando Luiz Rosa,Complete,48.0,29.0
+pass,2,00:09:35.587,Brazil,Marcelo Vieira da Silva Júnior,Complete,120.0,2.0
+pass,2,00:09:39.147,Brazil,Neymar da Silva Santos Junior,Incomplete,116.0,16.0
+pass,2,00:09:44.267,Brazil,Fernando Luiz Rosa,Complete,67.0,43.0
+pass,2,00:09:46.467,Brazil,Fágner Conserva Lemos,Complete,72.0,65.0
+pass,2,00:09:49.987,Brazil,Thiago Emiliano da Silva,Complete,87.0,67.0
+pass,2,00:09:56.427,Brazil,Marcelo Vieira da Silva Júnior,Complete,98.0,20.0
+pass,2,00:11:23.387,Belgium,Thibaut Courtois,Incomplete,7.0,47.0
+pass,2,00:11:26.587,Belgium,Fernando Luiz Rosa,Incomplete,47.0,27.0
+pass,2,00:11:28.027,Belgium,Thomas Meunier,Complete,69.0,56.0
+pass,2,00:11:31.587,Belgium,Toby Alderweireld,Complete,55.0,42.0
+pass,2,00:11:35.747,Belgium,Jan Vertonghen,Complete,37.0,20.0
+pass,2,00:11:38.867,Belgium,Vincent Kompany,Complete,30.0,35.0
+pass,2,00:11:56.187,Brazil,Marcelo Vieira da Silva Júnior,Incomplete,22.0,1.0
+pass,2,00:11:57.227,Brazil,Marouane Fellaini-Bakkioui,Complete,76.0,77.0
+pass,2,00:12:00.107,Brazil,Thomas Meunier,Incomplete,86.0,77.0
+pass,2,00:12:25.307,Belgium,Thomas Meunier,Complete,87.0,80.0
+pass,2,00:12:30.227,Brazil,Fernando Luiz Rosa,Complete,27.0,34.0
+pass,2,00:12:33.907,Brazil,Douglas Costa de Souza,Complete,40.0,34.0
+pass,2,00:12:36.267,Brazil,Philippe Coutinho Correia,Complete,50.0,26.0
+pass,2,00:12:37.200,Brazil,Roberto Firmino Barbosa de Oliveira,Complete,60.0,28.0
+pass,2,00:12:39.187,Brazil,Marcelo Vieira da Silva Júnior,Complete,57.0,26.0
+pass,2,00:12:42.947,Brazil,João Miranda de Souza Filho,Complete,46.0,29.0
+pass,2,00:12:55.947,Brazil,Thomas Meunier,Incomplete,24.0,79.0
+pass,2,00:13:00.427,Brazil,Marcelo Vieira da Silva Júnior,Complete,73.0,5.0
+pass,2,00:13:07.587,Belgium,Axel Witsel,Complete,34.0,30.0
+pass,2,00:13:10.427,Belgium,Jan Vertonghen,Complete,34.0,20.0
+pass,2,00:13:38.987,Belgium,Toby Alderweireld,Complete,20.0,47.0
+pass,2,00:13:54.307,Brazil,Fágner Conserva Lemos,Complete,64.0,80.0
+pass,2,00:13:55.027,Brazil,José Paulo Bezzera Maciel Júnior,Complete,65.0,73.0
+pass,2,00:13:57.067,Brazil,Fágner Conserva Lemos,Complete,59.0,78.0
+pass,2,00:14:04.467,Brazil,Thiago Emiliano da Silva,Complete,55.0,55.0
+pass,2,00:14:08.027,Brazil,Fernando Luiz Rosa,Complete,59.0,30.0
+pass,2,00:14:15.027,Brazil,Philippe Coutinho Correia,Complete,75.0,39.0
+pass,2,00:14:21.587,Brazil,Douglas Costa de Souza,Complete,96.0,57.0
+pass,2,00:14:24.147,Brazil,Marcelo Vieira da Silva Júnior,Incomplete,107.0,23.0
+pass,2,00:14:26.960,Brazil,Fernando Luiz Rosa,Complete,91.0,43.0
+pass,2,00:14:32.507,Brazil,Philippe Coutinho Correia,Complete,97.0,27.0
+pass,2,00:14:34.627,Brazil,Roberto Firmino Barbosa de Oliveira,Incomplete,96.0,42.0
+pass,2,00:14:36.747,Belgium,Vincent Kompany,Complete,20.0,43.0
+pass,2,00:14:41.627,Belgium,Eden Hazard,Complete,35.0,8.0
+pass,2,00:14:45.307,Belgium,Nacer Chadli,Complete,20.0,3.0
+pass,2,00:14:47.507,Belgium,Thibaut Courtois,Incomplete,2.0,29.0
+pass,2,00:14:51.667,Belgium,Fernando Luiz Rosa,Incomplete,56.0,55.0
+pass,2,00:15:09.907,Brazil,João Miranda de Souza Filho,Complete,56.0,34.0
+pass,2,00:15:14.067,Brazil,José Paulo Bezzera Maciel Júnior,Complete,65.0,40.0
+pass,2,00:15:15.947,Brazil,Fernando Luiz Rosa,Incomplete,58.0,33.0
+pass,2,00:15:17.827,Brazil,Thomas Meunier,Complete,34.0,68.0
+pass,2,00:15:20.067,Brazil,Romelu Lukaku Menama,Incomplete,54.0,62.0
+pass,2,00:15:21.360,Brazil,João Miranda de Souza Filho,Complete,60.0,25.0
+pass,2,00:15:22.467,Brazil,Philippe Coutinho Correia,Complete,64.0,27.0
+pass,2,00:15:26.227,Brazil,José Paulo Bezzera Maciel Júnior,Complete,55.0,45.0
+pass,2,00:15:28.987,Brazil,Fágner Conserva Lemos,Complete,55.0,59.0
+pass,2,00:15:32.947,Brazil,Thiago Emiliano da Silva,Complete,63.0,45.0
+pass,2,00:15:35.747,Belgium,Axel Witsel,Complete,39.0,36.0
+pass,2,00:15:37.947,Belgium,Toby Alderweireld,Complete,26.0,43.0
+pass,2,00:15:40.747,Belgium,Thibaut Courtois,Incomplete,6.0,30.0
+pass,2,00:15:44.427,Brazil,João Miranda de Souza Filho,Complete,51.0,15.0
+pass,2,00:15:51.227,Brazil,Marcelo Vieira da Silva Júnior,Complete,80.0,15.0
+pass,2,00:15:57.947,Brazil,Douglas Costa de Souza,Complete,98.0,51.0
+pass,2,00:16:01.547,Brazil,Philippe Coutinho Correia,Complete,93.0,38.0
+pass,2,00:16:02.947,Brazil,Douglas Costa de Souza,Incomplete,86.0,47.0
+pass,2,00:16:09.467,Belgium,Nacer Chadli,Complete,51.0,12.0
+pass,2,00:16:12.867,Belgium,Kevin De Bruyne,Complete,74.0,32.0
+pass,2,00:16:39.307,Brazil,Marcelo Vieira da Silva Júnior,Complete,76.0,27.0
+pass,2,00:16:42.747,Brazil,Neymar da Silva Santos Junior,Complete,87.0,42.0
+pass,2,00:16:49.587,Belgium,Vincent Kompany,Complete,8.0,35.0
+pass,2,00:16:57.227,Brazil,Thiago Emiliano da Silva,Complete,52.0,47.0
+pass,2,00:17:00.720,Brazil,Marcelo Vieira da Silva Júnior,Complete,73.0,27.0
+pass,2,00:17:01.387,Brazil,Philippe Coutinho Correia,Complete,84.0,25.0
+pass,2,00:17:03.307,Brazil,Marcelo Vieira da Silva Júnior,Complete,87.0,29.0
+pass,2,00:17:07.787,Belgium,Marouane Fellaini-Bakkioui,Complete,25.0,43.0
+pass,2,00:17:41.507,Belgium,Kevin De Bruyne,Incomplete,78.0,22.0
+pass,2,00:17:45.987,Brazil,Thiago Emiliano da Silva,Complete,35.0,57.0
+pass,2,00:17:47.747,Brazil,Roberto Firmino Barbosa de Oliveira,Complete,53.0,46.0
+pass,2,00:17:50.547,Brazil,Marcelo Vieira da Silva Júnior,Complete,56.0,22.0
+pass,2,00:17:57.787,Brazil,Neymar da Silva Santos Junior,Complete,105.0,15.0
+pass,2,00:18:04.987,Brazil,Marcelo Vieira da Silva Júnior,Complete,93.0,30.0
+pass,2,00:18:06.907,Brazil,Roberto Firmino Barbosa de Oliveira,Incomplete,100.0,27.0
+pass,2,00:18:08.867,Brazil,Neymar da Silva Santos Junior,Complete,94.0,25.0
+pass,2,00:18:12.027,Brazil,Fernando Luiz Rosa,Complete,81.0,40.0
+pass,2,00:18:16.387,Brazil,Philippe Coutinho Correia,Complete,94.0,31.0
+pass,2,00:18:17.827,Brazil,Neymar da Silva Santos Junior,Complete,94.0,39.0
+pass,2,00:18:20.027,Belgium,Axel Witsel,Complete,21.0,49.0
+pass,2,00:18:54.227,Belgium,Eden Hazard,Complete,83.0,16.0
+pass,2,00:18:55.107,Belgium,Nacer Chadli,Incomplete,84.0,2.0
+pass,2,00:19:06.907,Belgium,Nacer Chadli,Complete,80.0,1.0
+pass,2,00:19:07.707,Belgium,Eden Hazard,Complete,89.0,3.0
+pass,2,00:19:11.267,Belgium,Nacer Chadli,Complete,76.0,4.0
+pass,2,00:19:13.307,Belgium,Jan Vertonghen,Complete,56.0,3.0
+pass,2,00:19:17.027,Belgium,Vincent Kompany,Complete,46.0,32.0
+pass,2,00:19:21.027,Belgium,Thomas Meunier,Complete,64.0,66.0
+pass,2,00:19:23.627,Belgium,Kevin De Bruyne,Complete,84.0,59.0
+pass,2,00:19:26.107,Belgium,Thomas Meunier,Incomplete,93.0,55.0
+pass,2,00:19:34.947,Belgium,Kevin De Bruyne,Complete,73.0,78.0
+pass,2,00:19:38.587,Belgium,Axel Witsel,Complete,67.0,34.0
+pass,2,00:19:44.507,Belgium,Eden Hazard,Incomplete,101.0,24.0
+pass,2,00:19:46.107,Belgium,Fernando Luiz Rosa,Complete,23.0,56.0
+pass,2,00:19:48.827,Belgium,Nacer Chadli,Complete,99.0,15.0
+pass,2,00:19:51.547,Belgium,Axel Witsel,Complete,83.0,17.0
+pass,2,00:19:52.987,Belgium,Jan Vertonghen,Complete,72.0,14.0
+pass,2,00:19:54.707,Belgium,Marouane Fellaini-Bakkioui,Complete,73.0,25.0
+pass,2,00:19:57.307,Belgium,Jan Vertonghen,Complete,72.0,12.0
+pass,2,00:19:59.947,Belgium,Eden Hazard,Complete,91.0,5.0
+pass,2,00:20:01.067,Belgium,Nacer Chadli,Complete,98.0,10.0
+pass,2,00:20:05.107,Belgium,Fágner Conserva Lemos,Complete,20.0,60.0
+pass,2,00:20:24.627,Brazil,Neymar da Silva Santos Junior,Complete,68.0,46.0
+pass,2,00:20:30.747,Brazil,Douglas Costa de Souza,Complete,92.0,59.0
+pass,2,00:20:34.667,Brazil,Neymar da Silva Santos Junior,Complete,92.0,51.0
+pass,2,00:20:38.507,Brazil,Philippe Coutinho Correia,Complete,98.0,33.0
+pass,2,00:20:40.227,Brazil,Neymar da Silva Santos Junior,Complete,96.0,42.0
+pass,2,00:21:05.827,Belgium,Jan Vertonghen,Complete,26.0,1.0
+pass,2,00:21:23.507,Belgium,Nacer Chadli,Complete,63.0,1.0
+pass,2,00:21:28.467,Belgium,Jan Vertonghen,Complete,44.0,5.0
+pass,2,00:21:34.187,Belgium,Kevin De Bruyne,Complete,66.0,17.0
+pass,2,00:23:29.987,Belgium,Vincent Kompany,Incomplete,59.0,31.0
+pass,2,00:23:31.427,Brazil,João Miranda de Souza Filho,Complete,33.0,38.0
+pass,2,00:23:33.307,Brazil,Philippe Coutinho Correia,Complete,48.0,34.0
+pass,2,00:23:41.187,Brazil,Marcelo Vieira da Silva Júnior,Complete,87.0,23.0
+pass,2,00:23:42.747,Brazil,Roberto Firmino Barbosa de Oliveira,Complete,97.0,21.0
+pass,2,00:23:44.387,Brazil,Marcelo Vieira da Silva Júnior,Complete,91.0,26.0
+pass,2,00:23:48.107,Belgium,Toby Alderweireld,Complete,27.0,62.0
+pass,2,00:23:49.200,Belgium,Axel Witsel,Complete,30.0,54.0
+pass,2,00:23:49.827,Belgium,Kevin De Bruyne,Complete,36.0,49.0
+pass,2,00:24:13.027,Brazil,Philippe Coutinho Correia,Complete,50.0,32.0
+pass,2,00:24:15.507,Brazil,Thiago Emiliano da Silva,Complete,50.0,54.0
+pass,2,00:24:29.427,Belgium,Eden Hazard,Complete,43.0,20.0
+pass,2,00:24:33.267,Belgium,Nacer Chadli,Complete,29.0,15.0
+pass,2,00:24:35.987,Belgium,Jan Vertonghen,Complete,18.0,13.0
+pass,2,00:24:40.322,Belgium,Marouane Fellaini-Bakkioui,Complete,56.0,16.0
+pass,2,00:24:48.067,Belgium,Eden Hazard,Complete,65.0,32.0
+pass,2,00:24:49.507,Belgium,Axel Witsel,Complete,66.0,40.0
+pass,2,00:24:52.267,Belgium,Eden Hazard,Incomplete,82.0,44.0
+pass,2,00:24:54.547,Brazil,Fernando Luiz Rosa,Complete,27.0,41.0
+pass,2,00:25:33.187,Brazil,Fernando Luiz Rosa,Complete,78.0,41.0
+pass,2,00:25:36.467,Brazil,Philippe Coutinho Correia,Complete,86.0,29.0
+pass,2,00:25:41.800,Brazil,Marcelo Vieira da Silva Júnior,Complete,99.0,16.0
+pass,2,00:25:43.707,Brazil,Philippe Coutinho Correia,Complete,89.0,28.0
+pass,2,00:25:47.067,Brazil,Fernando Luiz Rosa,Complete,81.0,45.0
+pass,2,00:26:07.987,Belgium,Thibaut Courtois,Complete,18.0,29.0
+pass,2,00:26:11.427,Belgium,Nacer Chadli,Complete,55.0,10.0
+pass,2,00:26:14.227,Belgium,Jan Vertonghen,Complete,32.0,8.0
+pass,2,00:26:15.707,Belgium,Vincent Kompany,Complete,26.0,28.0
+pass,2,00:26:19.027,Belgium,Thibaut Courtois,Complete,2.0,31.0
+pass,2,00:26:21.547,Belgium,Nacer Chadli,Complete,40.0,3.0
+pass,2,00:26:23.547,Belgium,Eden Hazard,Complete,55.0,9.0
+pass,2,00:26:28.267,Brazil,Thiago Emiliano da Silva,Complete,31.0,66.0
+pass,2,00:26:32.759,Brazil,Thiago Emiliano da Silva,Complete,24.0,59.0
+pass,2,00:27:21.707,Belgium,Kevin De Bruyne,Incomplete,61.0,57.0
+pass,2,00:27:25.387,Brazil,Alisson Ramsés Becker,Complete,15.0,21.0
+pass,2,00:27:28.707,Brazil,João Miranda de Souza Filho,Complete,35.0,26.0
+pass,2,00:27:32.227,Brazil,Thiago Emiliano da Silva,Complete,47.0,47.0
+pass,2,00:27:34.507,Brazil,Renato Soares de Oliveira Augusto,Complete,53.0,56.0
+pass,2,00:27:36.747,Brazil,Fágner Conserva Lemos,Complete,52.0,74.0
+pass,2,00:27:40.227,Brazil,Thiago Emiliano da Silva,Complete,45.0,54.0
+pass,2,00:27:45.987,Brazil,João Miranda de Souza Filho,Complete,57.0,28.0
+pass,2,00:27:48.387,Brazil,Philippe Coutinho Correia,Incomplete,68.0,28.0
+pass,2,00:27:49.560,Belgium,Marouane Fellaini-Bakkioui,Complete,44.0,55.0
+pass,2,00:28:04.987,Brazil,Thiago Emiliano da Silva,Complete,48.0,42.0
+pass,2,00:28:15.627,Brazil,Philippe Coutinho Correia,Complete,67.0,44.0
+pass,2,00:28:17.387,Brazil,Fernando Luiz Rosa,Complete,68.0,32.0
+pass,2,00:28:19.587,Brazil,Neymar da Silva Santos Junior,Complete,83.0,22.0
+pass,2,00:28:23.960,Brazil,Marcelo Vieira da Silva Júnior,Complete,99.0,17.0
+pass,2,00:28:27.907,Brazil,Roberto Firmino Barbosa de Oliveira,Complete,98.0,38.0
+pass,2,00:29:01.427,Belgium,Thibaut Courtois,Incomplete,6.0,45.0
+pass,2,00:29:05.267,Belgium,João Miranda de Souza Filho,Incomplete,57.0,23.0
+pass,2,00:29:06.747,Belgium,Toby Alderweireld,Complete,56.0,56.0
+pass,2,00:29:10.387,Belgium,Romelu Lukaku Menama,Incomplete,89.0,63.0
+pass,2,00:29:11.827,Belgium,Renato Soares de Oliveira Augusto,Incomplete,33.0,31.0
+pass,2,00:29:15.187,Belgium,Kevin De Bruyne,Incomplete,100.0,50.0
+pass,2,00:29:17.347,Brazil,Fágner Conserva Lemos,Complete,26.0,35.0
+pass,2,00:29:20.307,Brazil,Roberto Firmino Barbosa de Oliveira,Complete,48.0,42.0
+pass,2,00:29:37.547,Brazil,Marcelo Vieira da Silva Júnior,Complete,88.0,1.0
+pass,2,00:29:42.347,Brazil,Philippe Coutinho Correia,Incomplete,99.0,21.0
+pass,2,00:29:48.267,Brazil,Axel Witsel,Incomplete,14.0,47.0
+pass,2,00:29:51.107,Belgium,Thomas Meunier,Complete,14.0,53.0
+pass,2,00:30:03.667,Brazil,Thiago Emiliano da Silva,Complete,92.0,58.0
+pass,2,00:30:06.507,Brazil,Neymar da Silva Santos Junior,Incomplete,91.0,42.0
+pass,2,00:30:11.520,Brazil,Neymar da Silva Santos Junior,Complete,75.0,41.0
+pass,2,00:30:12.480,Brazil,Fernando Luiz Rosa,Complete,73.0,36.0
+pass,2,00:30:19.027,Brazil,Philippe Coutinho Correia,Complete,94.0,33.0
+pass,2,00:31:07.920,Brazil,Fágner Conserva Lemos,Complete,22.0,49.0
+pass,2,00:31:11.440,Brazil,Alisson Ramsés Becker,Complete,12.0,52.0
+pass,2,00:31:15.640,Brazil,Thiago Emiliano da Silva,Complete,27.0,51.0
+pass,2,00:31:16.747,Brazil,Renato Soares de Oliveira Augusto,Complete,43.0,57.0
+pass,2,00:31:18.787,Brazil,Thiago Emiliano da Silva,Complete,33.0,59.0
+pass,2,00:31:23.947,Brazil,Douglas Costa de Souza,Complete,64.0,76.0
+pass,2,00:31:32.027,Brazil,Roberto Firmino Barbosa de Oliveira,Complete,94.0,61.0
+pass,2,00:31:33.627,Brazil,Renato Soares de Oliveira Augusto,Complete,92.0,56.0
+pass,2,00:31:39.160,Brazil,Douglas Costa de Souza,Complete,95.0,64.0
+pass,2,00:31:44.507,Brazil,Marcelo Vieira da Silva Júnior,Complete,101.0,22.0
+pass,2,00:31:47.440,Brazil,Philippe Coutinho Correia,Complete,97.0,26.0
+pass,2,00:32:32.027,Belgium,Kevin De Bruyne,Incomplete,97.0,49.0
+pass,2,00:32:34.867,Brazil,Fernando Luiz Rosa,Complete,29.0,37.0
+pass,2,00:32:37.347,Brazil,Philippe Coutinho Correia,Complete,51.0,24.0
+pass,2,00:32:44.487,Brazil,Neymar da Silva Santos Junior,Complete,107.0,17.0
+pass,2,00:33:18.147,Belgium,Thibaut Courtois,Complete,6.0,44.0
+pass,2,00:33:21.707,Belgium,Marouane Fellaini-Bakkioui,Incomplete,74.0,54.0
+pass,2,00:33:24.027,Brazil,Renato Soares de Oliveira Augusto,Complete,46.0,31.0
+pass,2,00:33:27.747,Brazil,Marcelo Vieira da Silva Júnior,Complete,64.0,21.0
+pass,2,00:33:39.560,Brazil,Douglas Costa de Souza,Incomplete,113.0,67.0
+pass,2,00:34:03.067,Brazil,Douglas Costa de Souza,Incomplete,120.0,79.0
+pass,2,00:34:16.707,Belgium,Eden Hazard,Incomplete,90.0,48.0
+pass,2,00:34:20.507,Brazil,Douglas Costa de Souza,Complete,31.0,74.0
+pass,2,00:34:22.747,Brazil,Roberto Firmino Barbosa de Oliveira,Complete,55.0,75.0
+pass,2,00:34:25.707,Brazil,Douglas Costa de Souza,Complete,40.0,78.0
+pass,2,00:34:27.827,Brazil,Fágner Conserva Lemos,Complete,29.0,74.0
+pass,2,00:34:30.787,Brazil,Thiago Emiliano da Silva,Complete,29.0,60.0
+pass,2,00:34:35.627,Brazil,Renato Soares de Oliveira Augusto,Complete,44.0,33.0
+pass,2,00:34:41.747,Brazil,Neymar da Silva Santos Junior,Incomplete,71.0,31.0
+pass,2,00:34:43.587,Belgium,Toby Alderweireld,Complete,35.0,50.0
+pass,2,00:34:45.667,Belgium,Kevin De Bruyne,Complete,49.0,27.0
+pass,2,00:34:48.187,Belgium,Jan Vertonghen,Complete,32.0,19.0
+pass,2,00:34:49.987,Belgium,Vincent Kompany,Complete,28.0,33.0
+pass,2,00:34:50.707,Belgium,Axel Witsel,Complete,37.0,33.0
+pass,2,00:34:53.507,Belgium,Vincent Kompany,Incomplete,26.0,31.0
+pass,2,00:34:55.160,Brazil,Marcelo Vieira da Silva Júnior,Complete,60.0,25.0
+pass,2,00:34:59.067,Brazil,Philippe Coutinho Correia,Complete,88.0,37.0
+pass,2,00:37:24.187,Belgium,Thibaut Courtois,Complete,7.0,40.0
+pass,2,00:37:27.987,Belgium,Marouane Fellaini-Bakkioui,Incomplete,90.0,56.0
+pass,2,00:37:30.827,Belgium,Fernando Luiz Rosa,Complete,21.0,21.0
+pass,2,00:37:34.800,Belgium,Renato Soares de Oliveira Augusto,Incomplete,34.0,48.0
+pass,2,00:37:36.800,Belgium,Marouane Fellaini-Bakkioui,Incomplete,78.0,48.0
+pass,2,00:37:39.147,Belgium,Fágner Conserva Lemos,Incomplete,25.0,57.0
+pass,2,00:37:42.867,Belgium,Jan Vertonghen,Incomplete,78.0,20.0
+pass,2,00:38:04.480,Belgium,Jan Vertonghen,Complete,95.0,1.0
+pass,2,00:38:07.507,Belgium,Thomas Vermaelen,Complete,67.0,14.0
+pass,2,00:38:10.000,Belgium,Vincent Kompany,Complete,55.0,32.0
+pass,2,00:38:12.187,Belgium,Toby Alderweireld,Complete,65.0,74.0
+pass,2,00:38:14.347,Belgium,Thomas Meunier,Incomplete,72.0,73.0
+pass,2,00:38:15.267,Belgium,Fernando Luiz Rosa,Complete,34.0,19.0
+pass,2,00:38:19.747,Belgium,Roberto Firmino Barbosa de Oliveira,Complete,73.0,29.0
+pass,2,00:38:25.427,Belgium,Neymar da Silva Santos Junior,Complete,113.0,24.0
+pass,2,00:39:00.947,Belgium,Thibaut Courtois,Incomplete,8.0,43.0
+pass,2,00:39:05.067,Brazil,Fernando Luiz Rosa,Complete,51.0,26.0
+pass,2,00:39:06.560,Brazil,Neymar da Silva Santos Junior,Complete,66.0,25.0
+pass,2,00:39:10.307,Brazil,Marcelo Vieira da Silva Júnior,Complete,59.0,20.0
+pass,2,00:39:15.147,Brazil,Renato Soares de Oliveira Augusto,Complete,81.0,57.0
+pass,2,00:39:20.707,Brazil,Douglas Costa de Souza,Complete,105.0,64.0
+pass,2,00:39:23.187,Brazil,Fernando Luiz Rosa,Incomplete,93.0,45.0
+pass,2,00:39:30.947,Brazil,Marouane Fellaini-Bakkioui,Complete,24.0,51.0
+pass,2,00:40:04.627,Belgium,Vincent Kompany,Complete,57.0,43.0
+pass,2,00:40:06.787,Belgium,Thomas Vermaelen,Complete,53.0,29.0
+pass,2,00:40:10.080,Belgium,Jan Vertonghen,Complete,67.0,7.0
+pass,2,00:40:12.467,Belgium,Vincent Kompany,Complete,47.0,29.0
+pass,2,00:40:25.827,Belgium,Axel Witsel,Complete,66.0,51.0
+pass,2,00:40:27.387,Belgium,Vincent Kompany,Complete,53.0,42.0
+pass,2,00:40:28.747,Belgium,Thomas Vermaelen,Complete,53.0,29.0
+pass,2,00:40:32.147,Belgium,Vincent Kompany,Complete,46.0,42.0
+pass,2,00:40:37.107,Belgium,Thomas Meunier,Complete,65.0,60.0
+pass,2,00:40:43.240,Belgium,Thibaut Courtois,Complete,17.0,66.0
+pass,2,00:40:44.307,Belgium,Thomas Meunier,Complete,50.0,56.0
+pass,2,00:41:42.187,Brazil,João Miranda de Souza Filho,Complete,16.0,24.0
+pass,2,00:41:43.627,Brazil,Alisson Ramsés Becker,Incomplete,6.0,30.0
+pass,2,00:41:45.947,Brazil,Axel Witsel,Incomplete,72.0,54.0
+pass,2,00:41:49.667,Brazil,Toby Alderweireld,Incomplete,58.0,59.0
+pass,2,00:41:57.082,Brazil,Thiago Emiliano da Silva,Complete,17.0,33.0
+pass,2,00:42:01.507,Brazil,Fágner Conserva Lemos,Complete,41.0,68.0
+pass,2,00:42:05.107,Brazil,Renato Soares de Oliveira Augusto,Complete,64.0,67.0
+pass,2,00:42:13.867,Brazil,Douglas Costa de Souza,Complete,82.0,68.0
+pass,2,00:42:17.627,Brazil,Philippe Coutinho Correia,Complete,87.0,25.0
+pass,2,00:42:19.227,Brazil,Marcelo Vieira da Silva Júnior,Complete,94.0,13.0
+pass,2,00:42:51.307,Belgium,Thibaut Courtois,Incomplete,6.0,45.0
+pass,2,00:42:55.440,Belgium,Fernando Luiz Rosa,Complete,50.0,24.0
+pass,2,00:43:01.627,Belgium,Kevin De Bruyne,Complete,85.0,37.0
+pass,2,00:43:21.427,Brazil,Marcelo Vieira da Silva Júnior,Complete,9.0,1.0
+pass,2,00:43:23.107,Brazil,Philippe Coutinho Correia,Complete,17.0,5.0
+pass,2,00:43:23.827,Brazil,Marcelo Vieira da Silva Júnior,Complete,10.0,2.0
+pass,2,00:43:28.827,Brazil,Fágner Conserva Lemos,Complete,21.0,58.0
+pass,2,00:43:40.319,Brazil,Douglas Costa de Souza,Complete,89.0,61.0
+pass,2,00:43:45.347,Brazil,Marouane Fellaini-Bakkioui,Incomplete,31.0,41.0
+pass,2,00:43:49.267,Brazil,Douglas Costa de Souza,Complete,80.0,28.0
+pass,2,00:43:50.907,Brazil,Philippe Coutinho Correia,Complete,90.0,26.0
+pass,2,00:43:53.267,Brazil,Marcelo Vieira da Silva Júnior,Incomplete,99.0,24.0
+pass,2,00:44:29.040,Belgium,Vincent Kompany,Complete,61.0,45.0
+pass,2,00:44:31.147,Belgium,Thomas Vermaelen,Complete,53.0,29.0
+pass,2,00:44:33.947,Belgium,Jan Vertonghen,Complete,65.0,5.0
+pass,2,00:44:36.347,Belgium,Thomas Vermaelen,Complete,44.0,8.0
+pass,2,00:44:41.667,Belgium,Thibaut Courtois,Incomplete,11.0,44.0
+pass,2,00:44:45.040,Brazil,João Miranda de Souza Filho,Complete,51.0,24.0
+pass,2,00:44:47.439,Brazil,Fernando Luiz Rosa,Complete,49.0,25.0
+pass,2,00:44:50.107,Brazil,Marcelo Vieira da Silva Júnior,Complete,53.0,11.0
+pass,2,00:44:52.347,Brazil,Philippe Coutinho Correia,Complete,58.0,26.0
+pass,2,00:44:55.827,Brazil,Fágner Conserva Lemos,Complete,67.0,56.0
+pass,2,00:45:01.587,Brazil,Douglas Costa de Souza,Complete,101.0,70.0
+pass,2,00:45:53.867,Belgium,Thibaut Courtois,Complete,6.0,45.0
+pass,2,00:45:57.027,Belgium,Marouane Fellaini-Bakkioui,Complete,78.0,68.0
+pass,2,00:46:05.080,Brazil,Marcelo Vieira da Silva Júnior,Complete,15.0,2.0
+pass,2,00:46:06.347,Brazil,João Miranda de Souza Filho,Incomplete,14.0,4.0
+pass,2,00:46:08.907,Belgium,Thomas Meunier,Complete,68.0,78.0
+pass,2,00:46:12.107,Belgium,Axel Witsel,Complete,82.0,50.0
+pass,2,00:46:13.827,Belgium,Youri Tielemans,Complete,74.0,50.0
+pass,2,00:46:14.987,Belgium,Axel Witsel,Complete,81.0,40.0
+pass,2,00:46:17.187,Belgium,Marouane Fellaini-Bakkioui,Incomplete,87.0,60.0
+pass,2,00:46:19.280,Brazil,Fernando Luiz Rosa,Complete,23.0,31.0
+pass,2,00:46:20.067,Brazil,João Miranda de Souza Filho,Complete,20.0,25.0
+pass,2,00:46:21.907,Brazil,Thiago Emiliano da Silva,Complete,23.0,40.0
+pass,2,00:46:23.787,Brazil,Philippe Coutinho Correia,Complete,42.0,33.0
+pass,2,00:46:26.107,Brazil,Roberto Firmino Barbosa de Oliveira,Complete,34.0,25.0
+pass,2,00:46:27.947,Brazil,João Miranda de Souza Filho,Complete,23.0,31.0
+pass,2,00:46:30.587,Brazil,Fernando Luiz Rosa,Complete,33.0,38.0
+pass,2,00:46:34.347,Brazil,Fágner Conserva Lemos,Complete,62.0,74.0
+pass,2,00:46:40.680,Brazil,Douglas Costa de Souza,Complete,84.0,51.0
+pass,2,00:46:44.027,Brazil,Marcelo Vieira da Silva Júnior,Complete,99.0,22.0
+pass,2,00:46:47.520,Brazil,Philippe Coutinho Correia,Incomplete,98.0,37.0
+pass,2,00:47:34.947,Belgium,Kevin De Bruyne,Complete,84.0,76.0
+pass,2,00:47:39.800,Brazil,João Miranda de Souza Filho,Complete,13.0,6.0
+pass,2,00:47:41.987,Brazil,Fernando Luiz Rosa,Complete,17.0,16.0
+pass,2,00:47:49.067,Brazil,Thiago Emiliano da Silva,Complete,54.0,49.0
+pass,2,00:47:54.400,Brazil,Marcelo Vieira da Silva Júnior,Complete,68.0,26.0
+pass,2,00:47:56.267,Brazil,Fernando Luiz Rosa,Complete,74.0,34.0
+pass,2,00:47:57.600,Brazil,Marcelo Vieira da Silva Júnior,Complete,73.0,25.0
+pass,2,00:48:03.227,Brazil,Neymar da Silva Santos Junior,Complete,93.0,41.0
+pass,2,00:48:13.480,Brazil,Douglas Costa de Souza,Complete,100.0,54.0
+pass,2,00:48:44.787,Brazil,Neymar da Silva Santos Junior,Complete,120.0,79.0
+pass,2,00:49:17.227,Belgium,Thibaut Courtois,Incomplete,9.0,43.0
+pass,2,00:49:25.720,Belgium,Eden Hazard,Complete,89.0,63.0
+pass,2,00:49:30.307,Belgium,Kevin De Bruyne,Incomplete,118.0,77.0
+pass,2,00:49:46.147,Belgium,Kevin De Bruyne,Complete,120.0,80.0
+pass,2,00:50:03.187,Brazil,Fernando Luiz Rosa,Complete,20.0,31.0
+dribble,1,00:02:38.380,Belgium,Thomas Meunier,Incomplete,30.0,78.0
+dribble,1,00:07:25.860,Belgium,Romelu Lukaku Menama,Complete,84.0,4.0
+dribble,1,00:09:13.793,Brazil,José Paulo Bezzera Maciel Júnior,Incomplete,109.0,50.0
+dribble,1,00:14:54.540,Brazil,Neymar da Silva Santos Junior,Complete,103.0,27.0
+dribble,1,00:20:05.540,Belgium,Jan Vertonghen,Complete,38.0,3.0
+dribble,1,00:20:23.753,Belgium,Eden Hazard,Complete,59.0,13.0
+dribble,1,00:20:25.940,Belgium,Eden Hazard,Complete,70.0,14.0
+dribble,1,00:22:09.820,Belgium,Romelu Lukaku Menama,Incomplete,109.0,57.0
+dribble,1,00:37:41.380,Belgium,Eden Hazard,Complete,73.0,7.0
+dribble,1,00:39:31.033,Belgium,Eden Hazard,Complete,65.0,23.0
+dribble,2,00:02:40.867,Brazil,Roberto Firmino Barbosa de Oliveira,Incomplete,105.0,48.0
+dribble,2,00:03:14.080,Brazil,Neymar da Silva Santos Junior,Complete,75.0,43.0
+dribble,2,00:03:37.040,Belgium,Romelu Lukaku Menama,Incomplete,108.0,54.0
+dribble,2,00:06:58.519,Brazil,Neymar da Silva Santos Junior,Complete,109.0,23.0
+dribble,2,00:09:23.240,Brazil,Neymar da Silva Santos Junior,Complete,68.0,31.0
+dribble,2,00:10:00.560,Brazil,Gabriel Fernando de Jesus,Complete,118.0,57.0
+dribble,2,00:12:49.600,Brazil,Neymar da Silva Santos Junior,Incomplete,105.0,21.0
+dribble,2,00:19:29.760,Belgium,Kevin De Bruyne,Complete,90.0,76.0
+dribble,2,00:28:26.680,Brazil,Roberto Firmino Barbosa de Oliveira,Complete,103.0,31.0
+dribble,2,00:29:14.267,Belgium,Kevin De Bruyne,Complete,98.0,54.0
+dribble,2,00:34:08.600,Belgium,Eden Hazard,Complete,23.0,50.0
+dribble,2,00:38:24.360,Belgium,Neymar da Silva Santos Junior,Complete,114.0,23.0
+dribble,2,00:39:39.880,Brazil,Eden Hazard,Complete,68.0,62.0
+dribble,2,00:43:32.840,Brazil,Douglas Costa de Souza,Complete,53.0,78.0
+dribble,2,00:44:00.640,Brazil,Eden Hazard,Complete,35.0,48.0
+dribble,2,00:46:38.760,Brazil,Douglas Costa de Souza,Complete,88.0,61.0
+dribble,2,00:46:54.760,Belgium,Eden Hazard,Complete,50.0,75.0
+dribble,2,00:46:57.800,Belgium,Eden Hazard,Complete,58.0,54.0
+dribble,2,00:48:11.807,Brazil,Douglas Costa de Souza,Complete,96.0,61.0
+miscontrol,1,00:02:01.473,Brazil,Willian Borges da Silva,Incomplete,56.0,78.0
+miscontrol,1,00:02:46.593,Belgium,Thomas Meunier,Incomplete,37.0,79.0
+miscontrol,1,00:04:43.673,Brazil,Gabriel Fernando de Jesus,Incomplete,66.0,52.0
+miscontrol,1,00:15:58.753,Brazil,Willian Borges da Silva,Incomplete,63.0,78.0
+miscontrol,1,00:18:32.753,Brazil,Neymar da Silva Santos Junior,Incomplete,106.0,14.0
+miscontrol,1,00:19:45.900,Belgium,Romelu Lukaku Menama,Incomplete,90.0,47.0
+miscontrol,1,00:26:08.593,Brazil,Neymar da Silva Santos Junior,Incomplete,79.0,18.0
+miscontrol,1,00:37:10.260,Brazil,Eden Hazard,Incomplete,37.0,27.0
+miscontrol,1,00:42:12.113,Brazil,Neymar da Silva Santos Junior,Incomplete,98.0,49.0
+miscontrol,2,00:04:56.627,Belgium,Romelu Lukaku Menama,Incomplete,76.0,78.0
+miscontrol,2,00:06:59.400,Brazil,Neymar da Silva Santos Junior,Incomplete,111.0,26.0
+miscontrol,2,00:07:24.680,Brazil,Neymar da Silva Santos Junior,Incomplete,95.0,26.0
+miscontrol,2,00:10:01.840,Brazil,Gabriel Fernando de Jesus,Incomplete,119.0,49.0
+miscontrol,2,00:12:27.077,Belgium,Marouane Fellaini-Bakkioui,Incomplete,99.0,60.0
+miscontrol,2,00:12:37.787,Brazil,Philippe Coutinho Correia,Incomplete,55.0,27.0
+miscontrol,2,00:16:05.747,Brazil,Nacer Chadli,Incomplete,37.0,21.0
+miscontrol,2,00:20:01.907,Belgium,Eden Hazard,Incomplete,96.0,20.0
+miscontrol,2,00:23:46.280,Brazil,Roberto Firmino Barbosa de Oliveira,Incomplete,94.0,17.0
+miscontrol,2,00:24:00.067,Belgium,Romelu Lukaku Menama,Incomplete,119.0,58.0
+miscontrol,2,00:26:24.187,Belgium,Nacer Chadli,Incomplete,56.0,2.0
+miscontrol,2,00:27:52.600,Belgium,Romelu Lukaku Menama,Incomplete,78.0,77.0
+miscontrol,2,00:29:56.707,Belgium,Eden Hazard,Incomplete,55.0,16.0
+miscontrol,2,00:31:50.840,Brazil,Marcelo Vieira da Silva Júnior,Incomplete,104.0,16.0
+miscontrol,2,00:39:30.347,Brazil,Philippe Coutinho Correia,Incomplete,92.0,27.0
+miscontrol,2,00:41:48.400,Brazil,Philippe Coutinho Correia,Incomplete,51.0,32.0
+miscontrol,2,00:42:22.840,Brazil,Neymar da Silva Santos Junior,Incomplete,116.0,27.0
+miscontrol,2,00:42:58.080,Belgium,Renato Soares de Oliveira Augusto,Incomplete,45.0,39.0
+miscontrol,2,00:43:41.480,Brazil,Neymar da Silva Santos Junior,Incomplete,100.0,34.0
+duel,1,00:01:28.260,Brazil,Willian Borges da Silva,Incomplete,50.0,58.0
+duel,1,00:10:51.033,Belgium,Gabriel Fernando de Jesus,Complete,64.0,28.0
+duel,1,00:24:29.180,Brazil,Axel Witsel,Incomplete,27.0,70.0
+duel,1,00:27:24.340,Belgium,Willian Borges da Silva,Incomplete,61.0,60.0
+duel,1,00:35:40.540,Belgium,Philippe Coutinho Correia,Incomplete,41.0,29.0
+duel,1,00:42:02.793,Brazil,Kevin De Bruyne,Complete,27.0,53.0
+duel,1,00:42:18.580,Brazil,Willian Borges da Silva,Complete,64.0,54.0
+duel,1,00:42:51.180,Brazil,Fágner Conserva Lemos,Incomplete,58.0,58.0
+duel,1,00:44:09.593,Brazil,Marouane Fellaini-Bakkioui,Complete,14.0,56.0
+duel,1,00:44:37.993,Brazil,Thomas Meunier,Complete,17.0,59.0
+duel,2,00:00:14.907,Belgium,Neymar da Silva Santos Junior,Incomplete,77.0,41.0
+duel,2,00:01:39.547,Belgium,Fágner Conserva Lemos,Incomplete,25.0,52.0
+duel,2,00:01:42.000,Brazil,Philippe Coutinho Correia,Complete,15.0,56.0
+duel,2,00:02:40.867,Brazil,Toby Alderweireld,Complete,16.0,33.0
+duel,2,00:03:23.720,Belgium,Vincent Kompany,Complete,18.0,22.0
+duel,2,00:03:37.040,Belgium,João Miranda de Souza Filho,Complete,13.0,27.0
+duel,2,00:09:14.837,Brazil,Philippe Coutinho Correia,Complete,63.0,28.0
+duel,2,00:09:27.187,Brazil,Thomas Meunier,Incomplete,19.0,58.0
+duel,2,00:11:26.587,Belgium,Marouane Fellaini-Bakkioui,Incomplete,74.0,54.0
+duel,2,00:11:47.147,Belgium,João Miranda de Souza Filho,Complete,10.0,4.0
+duel,2,00:12:49.600,Brazil,Thomas Meunier,Complete,16.0,60.0
+duel,2,00:13:03.720,Brazil,Marouane Fellaini-Bakkioui,Complete,27.0,52.0
+duel,2,00:15:34.800,Belgium,Axel Witsel,Complete,40.0,39.0
+duel,2,00:17:06.800,Belgium,Marouane Fellaini-Bakkioui,Complete,23.0,48.0
+duel,2,00:18:18.840,Belgium,Marouane Fellaini-Bakkioui,Complete,20.0,44.0
+duel,2,00:19:47.680,Belgium,Nacer Chadli,Complete,98.0,18.0
+duel,2,00:20:04.147,Belgium,Marouane Fellaini-Bakkioui,Incomplete,100.0,25.0
+duel,2,00:29:05.267,Belgium,Marouane Fellaini-Bakkioui,Incomplete,64.0,58.0
+duel,2,00:33:21.707,Belgium,João Miranda de Souza Filho,Incomplete,47.0,27.0
+duel,2,00:33:34.480,Brazil,Jan Vertonghen,Incomplete,13.0,23.0
+duel,2,00:37:27.987,Belgium,João Miranda de Souza Filho,Incomplete,31.0,25.0
+duel,2,00:39:05.067,Belgium,Marouane Fellaini-Bakkioui,Incomplete,70.0,55.0
+duel,2,00:41:45.947,Brazil,Roberto Firmino Barbosa de Oliveira,Incomplete,49.0,27.0
+duel,2,00:42:55.440,Belgium,Marouane Fellaini-Bakkioui,Incomplete,71.0,57.0
+duel,2,00:45:57.027,Belgium,Fernando Luiz Rosa,Incomplete,43.0,13.0
+duel,2,00:46:03.467,Brazil,João Miranda de Souza Filho,Complete,12.0,7.0
+duel,2,00:48:46.587,Brazil,Thomas Vermaelen,Incomplete,4.0,44.0
+duel,2,00:49:51.347,Belgium,Marcelo Vieira da Silva Júnior,Complete,3.0,3.0
